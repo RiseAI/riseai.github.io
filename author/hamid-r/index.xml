@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hamid R | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/hamid-r/</link>
+      <atom:link href="/author/hamid-r/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hamid R</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 11:25:23 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hamid R</title>
+      <link>/author/hamid-r/</link>
+    </image>
+    
+    <item>
+      <title>Socially Aware Multimodal Deep Neural Networks for Fake News Classification</title>
+      <link>/publication/paper_16/</link>
+      <pubDate>Mon, 08 Mar 2021 11:25:23 +0000</pubDate>
+      <guid>/publication/paper_16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

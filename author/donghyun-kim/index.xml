@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donghyun Kim | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/donghyun-kim/</link>
+      <atom:link href="/author/donghyun-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Donghyun Kim</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jan 2019 11:24:27 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Donghyun Kim</title>
+      <link>/author/donghyun-kim/</link>
+    </image>
+    
+    <item>
+      <title>Domain Switch-Aware Holistic Recurrent Neural Network for Modeling Multi-Domain User Behavior</title>
+      <link>/publication/paper_41/</link>
+      <pubDate>Wed, 30 Jan 2019 11:24:27 +0000</pubDate>
+      <guid>/publication/paper_41/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

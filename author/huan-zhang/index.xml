@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huan Zhang | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/huan-zhang/</link>
+      <atom:link href="/author/huan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huan Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Aug 2018 10:23:30 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Huan Zhang</title>
+      <link>/author/huan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Robust Adaptive Label Propagation by Double Matrix Decomposition</title>
+      <link>/publication/paper_67/</link>
+      <pubDate>Fri, 24 Aug 2018 10:23:30 +0000</pubDate>
+      <guid>/publication/paper_67/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

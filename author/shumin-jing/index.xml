@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shumin Jing | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/shumin-jing/</link>
+      <atom:link href="/author/shumin-jing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shumin Jing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Apr 2018 10:23:47 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Shumin Jing</title>
+      <link>/author/shumin-jing/</link>
+    </image>
+    
+    <item>
+      <title>Contextual Collaborative Filtering for Student Response Prediction in Mixed-Format Tests</title>
+      <link>/publication/paper_59/</link>
+      <pubDate>Sun, 29 Apr 2018 10:23:47 +0000</pubDate>
+      <guid>/publication/paper_59/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

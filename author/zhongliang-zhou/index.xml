@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhongliang Zhou | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/zhongliang-zhou/</link>
+      <atom:link href="/author/zhongliang-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhongliang Zhou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 10:25:54 +0000</lastBuildDate>
+    <image>
+      <url>/author/zhongliang-zhou/avatar_hub1f85cd994c23d5fec63aa2ca9f7be0d_1010153_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zhongliang Zhou</title>
+      <link>/author/zhongliang-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the glycosyltransferase fold landscape using interpretable deep learning</title>
+      <link>/publication/paper_2/</link>
+      <pubDate>Tue, 10 Aug 2021 10:25:54 +0000</pubDate>
+      <guid>/publication/paper_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep evolutionary analysis reveals the design principles of fold A glycosyltransferases</title>
+      <link>/publication/paper_19/</link>
+      <pubDate>Tue, 08 Sep 2020 10:25:16 +0000</pubDate>
+      <guid>/publication/paper_19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

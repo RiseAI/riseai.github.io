@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xueyu Mao | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/xueyu-mao/</link>
+      <atom:link href="/author/xueyu-mao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xueyu Mao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jul 2019 10:24:25 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Xueyu Mao</title>
+      <link>/author/xueyu-mao/</link>
+    </image>
+    
+    <item>
+      <title>Training Streaming Factorization Machines with Alternating Least Squares</title>
+      <link>/publication/paper_42/</link>
+      <pubDate>Thu, 18 Jul 2019 10:24:25 +0000</pubDate>
+      <guid>/publication/paper_42/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

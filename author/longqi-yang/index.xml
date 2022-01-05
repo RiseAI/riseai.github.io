@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Longqi Yang | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/longqi-yang/</link>
+      <atom:link href="/author/longqi-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Longqi Yang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Apr 2019 10:24:38 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Longqi Yang</title>
+      <link>/author/longqi-yang/</link>
+    </image>
+    
+    <item>
+      <title>Towards Interpretable User Modeling via Recurrent Semantics Memory Unit</title>
+      <link>/publication/paper_36/</link>
+      <pubDate>Mon, 29 Apr 2019 10:24:38 +0000</pubDate>
+      <guid>/publication/paper_36/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

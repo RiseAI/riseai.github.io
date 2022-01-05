@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tuan Manh Lai | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/tuan-manh-lai/</link>
+      <atom:link href="/author/tuan-manh-lai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tuan Manh Lai</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Dec 2018 11:23:39 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tuan Manh Lai</title>
+      <link>/author/tuan-manh-lai/</link>
+    </image>
+    
+    <item>
+      <title>Supervised Transfer Learning for Product Information Question Answering</title>
+      <link>/publication/paper_63/</link>
+      <pubDate>Tue, 18 Dec 2018 11:23:39 +0000</pubDate>
+      <guid>/publication/paper_63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review on Deep Learning Techniques Applied to Answer Selection</title>
+      <link>/publication/paper_61/</link>
+      <pubDate>Mon, 20 Aug 2018 10:23:43 +0000</pubDate>
+      <guid>/publication/paper_61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple End-to-End Question Answering Model for Product Information</title>
+      <link>/publication/paper_64/</link>
+      <pubDate>Fri, 20 Jul 2018 10:23:36 +0000</pubDate>
+      <guid>/publication/paper_64/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

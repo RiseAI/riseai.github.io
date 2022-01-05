@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhao Zhang | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/zhao-zhang/</link>
+      <atom:link href="/author/zhao-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhao Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 11:24:18 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhao Zhang</title>
+      <link>/author/zhao-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Structure-Constrained Robust Latent Low-Rank Coding for Image Recovery</title>
+      <link>/publication/paper_45/</link>
+      <pubDate>Thu, 30 Jan 2020 11:24:18 +0000</pubDate>
+      <guid>/publication/paper_45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Hybrid Representation by Robust Dictionary Learning in Factorized Compressed Space</title>
+      <link>/publication/paper_20/</link>
+      <pubDate>Wed, 15 Jan 2020 11:25:14 +0000</pubDate>
+      <guid>/publication/paper_20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Subspace Discovery by Block-diagonal Adaptive Locality-constrained Representation</title>
+      <link>/publication/paper_43/</link>
+      <pubDate>Tue, 15 Oct 2019 10:24:23 +0000</pubDate>
+      <guid>/publication/paper_43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Auto-weighted Local-coordinate Concept Factorization</title>
+      <link>/publication/paper_30/</link>
+      <pubDate>Fri, 13 Sep 2019 10:24:51 +0000</pubDate>
+      <guid>/publication/paper_30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Unsupervised Flexible Auto-weighted Local-Coordinate Concept Factorization for Image Clustering</title>
+      <link>/publication/paper_46/</link>
+      <pubDate>Fri, 17 May 2019 10:24:16 +0000</pubDate>
+      <guid>/publication/paper_46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Block-Diagonal Locality-Constrained Projective Dictionary Learning</title>
+      <link>/publication/paper_35/</link>
+      <pubDate>Fri, 10 May 2019 10:24:40 +0000</pubDate>
+      <guid>/publication/paper_35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Nonnegative Adaptive Feature Extraction for Data Representation</title>
+      <link>/publication/paper_54/</link>
+      <pubDate>Wed, 24 Oct 2018 10:23:58 +0000</pubDate>
+      <guid>/publication/paper_54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Locality-Constrained Label Consistent KSVD by Joint Sparse Embedding</title>
+      <link>/publication/paper_65/</link>
+      <pubDate>Fri, 24 Aug 2018 10:23:34 +0000</pubDate>
+      <guid>/publication/paper_65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Projective Low-Rank and Sparse Representation by Robust Dictionary Learning</title>
+      <link>/publication/paper_66/</link>
+      <pubDate>Fri, 24 Aug 2018 10:23:32 +0000</pubDate>
+      <guid>/publication/paper_66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Adaptive Label Propagation by Double Matrix Decomposition</title>
+      <link>/publication/paper_67/</link>
+      <pubDate>Fri, 24 Aug 2018 10:23:30 +0000</pubDate>
+      <guid>/publication/paper_67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity-Adaptive Latent Low-Rank Representation for Robust Data Representation</title>
+      <link>/publication/paper_68/</link>
+      <pubDate>Fri, 27 Jul 2018 10:23:28 +0000</pubDate>
+      <guid>/publication/paper_68/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

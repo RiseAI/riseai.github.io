@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey Sadler | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/jeffrey-sadler/</link>
+      <atom:link href="/author/jeffrey-sadler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeffrey Sadler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Oct 2021 10:25:31 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jeffrey Sadler</title>
+      <link>/author/jeffrey-sadler/</link>
+    </image>
+    
+    <item>
+      <title>An Application in Modeling Lake and River Systems</title>
+      <link>/publication/paper_12/</link>
+      <pubDate>Tue, 05 Oct 2021 10:25:31 +0000</pubDate>
+      <guid>/publication/paper_12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

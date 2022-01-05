@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongfu Liu | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/hongfu-liu/</link>
+      <atom:link href="/author/hongfu-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongfu Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Apr 2019 10:24:54 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Hongfu Liu</title>
+      <link>/author/hongfu-liu/</link>
+    </image>
+    
+    <item>
+      <title>Marginalized Multi-View Ensemble Clustering</title>
+      <link>/publication/paper_29/</link>
+      <pubDate>Mon, 15 Apr 2019 10:24:54 +0000</pubDate>
+      <guid>/publication/paper_29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Spectral Ensemble Clustering via Rank Minimization</title>
+      <link>/publication/paper_53/</link>
+      <pubDate>Wed, 09 Jan 2019 11:24:01 +0000</pubDate>
+      <guid>/publication/paper_53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Graph Learning with Adaptive Label Propagation</title>
+      <link>/publication/paper_73/</link>
+      <pubDate>Mon, 11 Dec 2017 11:23:16 +0000</pubDate>
+      <guid>/publication/paper_73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Ensemble Clustering to Multi-View Clustering</title>
+      <link>/publication/paper_74/</link>
+      <pubDate>Sat, 19 Aug 2017 10:23:14 +0000</pubDate>
+      <guid>/publication/paper_74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite Ensemble Clustering</title>
+      <link>/publication/paper_51/</link>
+      <pubDate>Thu, 20 Jul 2017 10:24:05 +0000</pubDate>
+      <guid>/publication/paper_51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Spectral Ensemble Clustering</title>
+      <link>/publication/paper_79/</link>
+      <pubDate>Mon, 24 Oct 2016 10:23:03 +0000</pubDate>
+      <guid>/publication/paper_79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinite Ensemble for Image Clustering</title>
+      <link>/publication/paper_80/</link>
+      <pubDate>Sat, 13 Aug 2016 10:23:01 +0000</pubDate>
+      <guid>/publication/paper_80/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

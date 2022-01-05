@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zheyan Shen | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>/author/zheyan-shen/</link>
+      <atom:link href="/author/zheyan-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zheyan Shen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Aug 2020 10:25:05 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Zheyan Shen</title>
+      <link>/author/zheyan-shen/</link>
+    </image>
+    
+    <item>
+      <title>Causal Inference Meets Machine Learning</title>
+      <link>/publication/paper_24/</link>
+      <pubDate>Sun, 23 Aug 2020 10:25:05 +0000</pubDate>
+      <guid>/publication/paper_24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

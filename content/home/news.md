@@ -22,6 +22,7 @@ design:
 ---
 <ul class="">
     <li>10/2021, One paper on cross-domain clustering is accepted to the student abstract and poster program at <a href="https://aaai.org/Conferences/AAAI-22/" target="_blank">AAAI 2022</a>.</li> 
+    <li>10/2021, One paper on cross-domain clustering is accepted to the student abstract and poster program at <a href="https://aaai.org/Conferences/AAAI-22/" target="_blank">AAAI 2022</a>.</li> 
     <li>10/2021, One paper on knowledge-derived query suggestion is accepted at <a href="https://bigdataieee.org/BigData2021/" target="_blank">IEEE BigData 2021</a>.</li>   
     <li>10/2021, One paper on unsupervised domain adaptation is accepted by IEEE Trans. Neural Networks and Learning Systems (T-NNLS).</li>    
     <li>08/2021, One paper on interpretable deep learning for bioinformatics is accepted by <a href="https://www.nature.com/articles/s41467-021-25975-9"target="_blank">Nature Communications</a>.</li>

@@ -1,0 +1,28 @@
+name: Push to GitHub Pages on push to master
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v1
+
+      - name: Store PAT
+        run: echo "TOKEN=${{ secrets.TOKEN }}" >> $GITHUB_ENV
+
+      - name: Deploy the site
+        uses: riseai/hugo-deploy-gh-pages@master
+        env:
+          HUGO_VERSION: 0.90.0
+          HUGO_EXTENDED: true
+          TARGET_REPO: riseai/riseai.github.io
+          TARGET_BRANCH: master
+          TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: riseai
+          CNAME: riseai.github.io

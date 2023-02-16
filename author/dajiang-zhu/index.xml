@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dajiang Zhu | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/dajiang-zhu/</link>
+      <atom:link href="https://riseai.github.io/author/dajiang-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dajiang Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 23:07:05 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Dajiang Zhu</title>
+      <link>https://riseai.github.io/author/dajiang-zhu/</link>
+    </image>
+    
+    <item>
+      <title>ClinicalRadioBERT: Knowledge-Infused Few Shot Learning for Clinical Notes Named Entity Recognition</title>
+      <link>https://riseai.github.io/publication/clinicalradiobert-knowledge-infused-few-shot-learning-for-clinical-notes-named-entity-recognition/</link>
+      <pubDate>Mon, 01 Aug 2022 23:07:05 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/clinicalradiobert-knowledge-infused-few-shot-learning-for-clinical-notes-named-entity-recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

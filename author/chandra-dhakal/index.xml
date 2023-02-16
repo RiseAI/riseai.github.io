@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chandra Dhakal | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/chandra-dhakal/</link>
+      <atom:link href="https://riseai.github.io/author/chandra-dhakal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chandra Dhakal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Apr 2022 23:16:12 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Chandra Dhakal</title>
+      <link>https://riseai.github.io/author/chandra-dhakal/</link>
+    </image>
+    
+    <item>
+      <title>AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition</title>
+      <link>https://riseai.github.io/publication/agribert-knowledge-infused-agricultural-language-models-for-matching-food-and-nutrition/</link>
+      <pubDate>Mon, 11 Apr 2022 23:16:12 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/agribert-knowledge-infused-agricultural-language-models-for-matching-food-and-nutrition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

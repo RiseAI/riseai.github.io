@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhixuan Chu | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/zhixuan-chu/</link>
+      <atom:link href="https://riseai.github.io/author/zhixuan-chu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhixuan Chu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 21:08:27 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhixuan Chu</title>
+      <link>https://riseai.github.io/author/zhixuan-chu/</link>
+    </image>
+    
+    <item>
+      <title>Fair Attribute Completion on Graph with Missing Attributes</title>
+      <link>https://riseai.github.io/publication/fair-attribute-completion-on-graph-with-missing-attributes/</link>
+      <pubDate>Mon, 23 Jan 2023 21:08:27 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/fair-attribute-completion-on-graph-with-missing-attributes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Propensity Scores with Deep Adaptive Variable Selection</title>
+      <link>https://riseai.github.io/publication/estimating-propensity-scores-with-deep-adaptive-variable-selection/</link>
+      <pubDate>Thu, 29 Dec 2022 08:25:09 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/estimating-propensity-scores-with-deep-adaptive-variable-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Causal Inference with Incremental Observational Data</title>
+      <link>https://riseai.github.io/publication/continual-causal-inference-with-incremental-observational-data/</link>
+      <pubDate>Mon, 19 Dec 2022 21:20:31 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/continual-causal-inference-with-incremental-observational-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Capsule Prediction Network for Marketing Campaigns Effect</title>
+      <link>https://riseai.github.io/publication/hierarchical-capsule-prediction-network-for-marketing-campaigns-effect/</link>
+      <pubDate>Wed, 10 Aug 2022 23:10:49 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/hierarchical-capsule-prediction-network-for-marketing-campaigns-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Task Adversarial Learning for Treatment Effect Estimation in Basket Trials</title>
+      <link>https://riseai.github.io/publication/multi-task-adversarial-learning-for-treatment-effect-estimation-in-basket-trials/</link>
+      <pubDate>Wed, 09 Mar 2022 00:12:01 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/multi-task-adversarial-learning-for-treatment-effect-estimation-in-basket-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data</title>
+      <link>https://riseai.github.io/publication/paper_6/</link>
+      <pubDate>Sat, 14 Aug 2021 10:25:45 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-Guided Article Embedding Refinement for Session-based News Recommendation</title>
+      <link>https://riseai.github.io/publication/paper_3/</link>
+      <pubDate>Sat, 09 Jan 2021 11:25:51 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Causal Inference</title>
+      <link>https://riseai.github.io/publication/paper_5/</link>
+      <pubDate>Wed, 02 Dec 2020 11:25:47 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching in Selective and Balanced Representation Space for Treatment Effects Estimation</title>
+      <link>https://riseai.github.io/publication/paper_25/</link>
+      <pubDate>Fri, 09 Oct 2020 10:25:02 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causal Inference Meets Machine Learning</title>
+      <link>https://riseai.github.io/publication/paper_24/</link>
+      <pubDate>Sun, 23 Aug 2020 10:25:05 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_24/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

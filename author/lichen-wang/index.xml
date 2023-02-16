@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lichen Wang | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/lichen-wang/</link>
+      <atom:link href="https://riseai.github.io/author/lichen-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lichen Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 May 2022 23:14:17 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Lichen Wang</title>
+      <link>https://riseai.github.io/author/lichen-wang/</link>
+    </image>
+    
+    <item>
+      <title>Collaborative Attention Mechanism for Multi-Modal Time Series Classification</title>
+      <link>https://riseai.github.io/publication/collaborative-attention-mechanism-for-multi-modal-time-series-classification/</link>
+      <pubDate>Wed, 18 May 2022 23:14:17 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/collaborative-attention-mechanism-for-multi-modal-time-series-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlative Channel-Aware Fusion for Multi-View Time Series Classification</title>
+      <link>https://riseai.github.io/publication/paper_8/</link>
+      <pubDate>Tue, 18 May 2021 10:25:40 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Lanzilotta | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/william-lanzilotta/</link>
+      <atom:link href="https://riseai.github.io/author/william-lanzilotta/index.xml" rel="self" type="application/rss+xml" />
+    <description>William Lanzilotta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Dec 2022 21:19:52 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>William Lanzilotta</title>
+      <link>https://riseai.github.io/author/william-lanzilotta/</link>
+    </image>
+    
+    <item>
+      <title>Tree Visualizations of Protein Sequence Embedding Space Enable Improved Functional Clustering of Diverse Protein Superfamilies</title>
+      <link>https://riseai.github.io/publication/tree-visualizations-of-protein-sequence-embedding-space-enable-improved-functional-clustering-of-diverse-protein-superfamilies/</link>
+      <pubDate>Thu, 08 Dec 2022 21:19:52 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/tree-visualizations-of-protein-sequence-embedding-space-enable-improved-functional-clustering-of-diverse-protein-superfamilies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

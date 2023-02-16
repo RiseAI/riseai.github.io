@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>and Sheng Li | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/and-sheng-li/</link>
+      <atom:link href="https://riseai.github.io/author/and-sheng-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>and Sheng Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Jan 2023 21:08:27 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>and Sheng Li</title>
+      <link>https://riseai.github.io/author/and-sheng-li/</link>
+    </image>
+    
+    <item>
+      <title>Fair Attribute Completion on Graph with Missing Attributes</title>
+      <link>https://riseai.github.io/publication/fair-attribute-completion-on-graph-with-missing-attributes/</link>
+      <pubDate>Mon, 23 Jan 2023 21:08:27 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/fair-attribute-completion-on-graph-with-missing-attributes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Better Generative Replay for Continual Federated Learning</title>
+      <link>https://riseai.github.io/publication/better-generative-replay-for-continual-federated-learning/</link>
+      <pubDate>Mon, 23 Jan 2023 21:07:52 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/better-generative-replay-for-continual-federated-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Mix-Up for Few-Shot Supervised Multi-Source Domain Transfer</title>
+      <link>https://riseai.github.io/publication/progressive-mix-up-for-few-shot-supervised-multi-source-domain-transfer/</link>
+      <pubDate>Mon, 23 Jan 2023 21:06:44 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/progressive-mix-up-for-few-shot-supervised-multi-source-domain-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XDC: Adaptive Cross Domain Short Text Clustering</title>
+      <link>https://riseai.github.io/publication/xdc-adaptive-cross-domain-short-text-clustering/</link>
+      <pubDate>Thu, 29 Dec 2022 08:24:59 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/xdc-adaptive-cross-domain-short-text-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual Causal Inference with Incremental Observational Data</title>
+      <link>https://riseai.github.io/publication/continual-causal-inference-with-incremental-observational-data/</link>
+      <pubDate>Mon, 19 Dec 2022 21:20:31 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/continual-causal-inference-with-incremental-observational-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pigmentation-based Visual Learning for Salvelinus fontinalis Individual Re-identification</title>
+      <link>https://riseai.github.io/publication/pigmentation-based-visual-learning-for-salvelinus-fontinalis-individual-re-identification/</link>
+      <pubDate>Tue, 15 Nov 2022 21:10:49 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/pigmentation-based-visual-learning-for-salvelinus-fontinalis-individual-re-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Pairwise Adversarial Training for Unsupervised Class-imbalanced Domain Adaptation</title>
+      <link>https://riseai.github.io/publication/pairwise-adversarial-training-for-unsupervised-class-imbalanced-domain-adaptation/</link>
+      <pubDate>Tue, 14 Jun 2022 23:18:00 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/pairwise-adversarial-training-for-unsupervised-class-imbalanced-domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition</title>
+      <link>https://riseai.github.io/publication/agribert-knowledge-infused-agricultural-language-models-for-matching-food-and-nutrition/</link>
+      <pubDate>Mon, 11 Apr 2022 23:16:12 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/agribert-knowledge-infused-agricultural-language-models-for-matching-food-and-nutrition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

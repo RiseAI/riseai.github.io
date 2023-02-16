@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianming Liu | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/tianming-liu/</link>
+      <atom:link href="https://riseai.github.io/author/tianming-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianming Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 23:07:05 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Tianming Liu</title>
+      <link>https://riseai.github.io/author/tianming-liu/</link>
+    </image>
+    
+    <item>
+      <title>ClinicalRadioBERT: Knowledge-Infused Few Shot Learning for Clinical Notes Named Entity Recognition</title>
+      <link>https://riseai.github.io/publication/clinicalradiobert-knowledge-infused-few-shot-learning-for-clinical-notes-named-entity-recognition/</link>
+      <pubDate>Mon, 01 Aug 2022 23:07:05 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/clinicalradiobert-knowledge-infused-few-shot-learning-for-clinical-notes-named-entity-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition</title>
+      <link>https://riseai.github.io/publication/agribert-knowledge-infused-agricultural-language-models-for-matching-food-and-nutrition/</link>
+      <pubDate>Mon, 11 Apr 2022 23:16:12 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/agribert-knowledge-infused-agricultural-language-models-for-matching-food-and-nutrition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

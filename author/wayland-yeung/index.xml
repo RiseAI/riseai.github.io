@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wayland Yeung* | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/wayland-yeung/</link>
+      <atom:link href="https://riseai.github.io/author/wayland-yeung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wayland Yeung*</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Jan 2023 21:09:38 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Wayland Yeung*</title>
+      <link>https://riseai.github.io/author/wayland-yeung/</link>
+    </image>
+    
+    <item>
+      <title>Phosformer: An explainable Transformer model for protein kinase-specific phosphorylation predictions</title>
+      <link>https://riseai.github.io/publication/phosformer-an-explainable-transformer-model-for-protein-kinase-specific-phosphorylation-predictions/</link>
+      <pubDate>Tue, 31 Jan 2023 21:09:38 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/phosformer-an-explainable-transformer-model-for-protein-kinase-specific-phosphorylation-predictions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree Visualizations of Protein Sequence Embedding Space Enable Improved Functional Clustering of Diverse Protein Superfamilies</title>
+      <link>https://riseai.github.io/publication/tree-visualizations-of-protein-sequence-embedding-space-enable-improved-functional-clustering-of-diverse-protein-superfamilies/</link>
+      <pubDate>Thu, 08 Dec 2022 21:19:52 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/tree-visualizations-of-protein-sequence-embedding-space-enable-improved-functional-clustering-of-diverse-protein-superfamilies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Alignment-Free Estimation of Sequence Conservation for Identifying Functional Sites Using Protein Sequence Embeddings</title>
+      <link>https://riseai.github.io/publication/alignment-free-estimation-of-sequence-conservation-for-identifying-functional-sites-using-protein-sequence-embeddings/</link>
+      <pubDate>Tue, 06 Dec 2022 21:14:00 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/alignment-free-estimation-of-sequence-conservation-for-identifying-functional-sites-using-protein-sequence-embeddings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the glycosyltransferase fold landscape using interpretable deep learning</title>
+      <link>https://riseai.github.io/publication/paper_2/</link>
+      <pubDate>Tue, 10 Aug 2021 10:25:54 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Structure–Mutation–Activity Relationship Tests (QSMART) model for protein kinase inhibitor response prediction</title>
+      <link>https://riseai.github.io/publication/paper_21/</link>
+      <pubDate>Thu, 12 Nov 2020 11:25:11 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep evolutionary analysis reveals the design principles of fold A glycosyltransferases</title>
+      <link>https://riseai.github.io/publication/paper_19/</link>
+      <pubDate>Tue, 08 Sep 2020 10:25:16 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/paper_19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhanwen Chen | Reasoning and Knowledge Discovery (RISE) Lab</title>
+    <link>https://riseai.github.io/author/zhanwen-chen/</link>
+      <atom:link href="https://riseai.github.io/author/zhanwen-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhanwen Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2022 20:08:08 +0000</lastBuildDate>
+    <image>
+      <url>https://riseai.github.io/author/zhanwen-chen/avatar_hu0258c4882e8b97078e84d6c9f297c325_2187411_270x270_fill_lanczos_center_3.png</url>
+      <title>Zhanwen Chen</title>
+      <link>https://riseai.github.io/author/zhanwen-chen/</link>
+    </image>
+    
+    <item>
+      <title> Unbiasing Scene Graph Generation with Explicit Ontological Adjustment</title>
+      <link>https://riseai.github.io/publication/unbiasing-scene-graph-generation-with-explicit-ontological-adjustment/</link>
+      <pubDate>Mon, 10 Oct 2022 20:08:08 +0000</pubDate>
+      <guid>https://riseai.github.io/publication/unbiasing-scene-graph-generation-with-explicit-ontological-adjustment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

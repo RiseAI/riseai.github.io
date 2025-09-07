@@ -1,0 +1,1964 @@
+{
+  "publications": [
+    {
+      "authors": ["Lehan Yang", "Jincen Song", "Tianlong Wang", "Daiqing Qi", "Weili Shi", "Yuheng Liu", "Sheng Li"],
+      "title": "VRMDiff: Text-Guided Video Referring Matting Generation of Diffusion",
+      "venue": "arXiv preprint arXiv:2503.10678",
+      "year": 2025,
+      "github": "https://github.com/Hansxsourse/VRMDiff",
+      "paper": "https://www.arxiv.org/abs/2503.10678",
+      "website": "https://bio.lehanyang.info/VRMDiff.github.io/",
+      "image": "images/paper/teaser_vrmdiff.png"
+    },
+    {
+      "authors": ["Dongliang Guo", "Mengxuan Hu", "Zihan Guan", "Thomas Hartvigsen", "Sheng Li"],
+      "title": "BalancEdit: Dynamically Balancing the Generality-Locality Trade-off in Multi-modal Model Editing",
+      "venue": "ICML",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zihan Guan*", "Mengxuan Hu*", "Ronghang Zhu", "Sheng Li", "Anil Vullikanti"],
+      "title": "Benign Samples Matter! Fine-tuning On Outlier Benign Samples Severely Breaks Safety",
+      "venue": "ICML (Spotlight)",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Guangya Wan", "Yunsheng Lu", "Yuqi Wu", "Mengxuan Hu", "Sheng Li"],
+      "title": "Large Language Models in Causal Discovery: Current Landscape and Future Directions",
+      "venue": "IJCAI (Survey Track)",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Daiqing Qi", "Handong Zhao", "Jing Shi", "Simon Jenni", "Yifei Fan", "Franck Dernoncourt", "Scott Cohen", "Sheng Li"],
+      "title": "The Photographer's Eye: Teaching Multimodal Large Language Models to See, Think and Critique Like Photographers",
+      "venue": "CVPR",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Lehan Yang", "Lu Qi", "Xiangtai Li", "Sheng Li", "Varun Jampani", "Ming-Hsuan Yang"],
+      "title": "Unified Dense Prediction of Video Diffusion",
+      "venue": "CVPR",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Mengxuan Hu", "Weiming Zhuang", "Lingjuan Lyu", "Xiang Yu", "Sheng Li"],
+      "title": "Revisiting Source-Free Domain Adaptation: Insights into Representativeness, Generalization, and Diversity",
+      "venue": "CVPR",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Guangya Wan", "Yuqi Wu", "Jie Chen", "Sheng Li"],
+      "title": "RASC: Reasoning-Aware Self-Consistency for Efficient and Faithful LLM Reasoning",
+      "venue": "NAACL",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Mengxuan Hu*", "Zihan Guan*", "Yi Zeng", "Junfeng Guo", "Zhongliang Zhou", "Jielu Zhang", "Ruoxi Jia", "Anil Kumar Vullikanti", "Sheng Li"],
+      "title": "Mind Control through Causal Inference: Predicting Clean Images from Poisoned Data",
+      "venue": "ICLR",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Mengxuan Hu", "Zihan Guan", "Junfeng Guo", "Zhongliang Zhou", "Jielu Zhang", "Sheng Li"],
+      "title": "BBCaL: Black-box Backdoor Detection under the Causality Lens",
+      "venue": "TMLR",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li"],
+      "title": "Trustworthy AI Meets Educational Assessment: Challenges and Opportunities",
+      "venue": "AAAI (Senior Member Track)",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zihan Guan*", "Mengxuan Hu*", "Sheng Li", "Anil Kumar Vullikanti"],
+      "title": "UFID: A Unified Framework for Black-box Input-level Backdoor Detection on Diffusion Models",
+      "venue": "AAAI (AI Alignment Track)",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Dongliang Guo", "Mengxuan Hu", "Zihan Guan", "Junfeng Guo", "Thomas Hartvigsen", "Sheng Li"],
+      "title": "Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing",
+      "venue": "ACM CIKM",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Mengxuan Hu*", "Hongyi Wu*", "Zihan Guan", "Ronghang Zhu", "Dongliang Guo", "Daiqing Qi", "Sheng Li"],
+      "title": "No free lunch: Retrieval-augmented generation undermines fairness in LLMs, even for vigilant users",
+      "venue": "EMNLP Findings",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Dongliang Guo", "Handong Zhao", "Ryan Rossi", "Sungchul Kim", "Nedim Lipka", "Tong Yu", "Sheng Li"],
+      "title": "Few-shot Fine-grained Image Classification with Interpretable Prompt Learning through Distribution Alignment",
+      "venue": "ACM ICMI",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Huibo Yang", "Mengxuan Hu", "Amoreena Most", "Brian Murray", "Susan Smith", "Anthony Hawkins", "Sheng Li", "Andrea Sikora"],
+      "title": "Evaluating Accuracy and Reproducibility of Large Language Model Performance on Critical Care Assessments in Pharmacy Education",
+      "venue": "Frontiers in Artificial Intelligence",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Mei Yang", "Dongliang Guo", "Sheng Li", "Steven Binder", "Cole Sterck", "Mable Fok"],
+      "title": "Motion Reconstruction of an Inchworm Inspired Soft Robotic Climber Using Fiber Optic Sensors and Neural Network",
+      "venue": "OFC Conference",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Haixing Dai", "Yiwei Li", "Zhengliang Liu", "Lin Zhao", "Zihao Wu", "Suhang Song", "Ye Shen", "Dajiang Zhu", "Xiang Li", "Sheng Li", "Xiaobai Yao", "Lu Shi", "Quanzheng Li", "Zhuo Chen", "Donglan Zhang", "Gengchen Mai*", "Tianming Liu*"],
+      "title": "AD-AutoGPT: An Autonomous GPT for Alzheimer's Disease Infodemiology",
+      "venue": "PLOS Global Public Health",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhanwen Chen", "Tianchun Wang", "Yizhou Wang", "Michal Kosinski", "Xiang Zhang", "Yun Fu", "Sheng Li"],
+      "title": "Through the Theory of Mind's Eye: Reading Minds with Multimodal Video Large Language Models",
+      "venue": "IJCNN",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Susan Smith", "Bokai Zhao", "Shiyuan Deng", "Mengxuan Hu", "Tianyi Zhang", "Yanlei Kong", "Ye Shen", "Sheng Li", "David Murphy", "Brian Murray", "Rishikesan Kamaleswaran", "Xianyan Chen", "John Devlin", "Andrea Sikora"],
+      "title": "Machine Learning-based Prediction of ICU Complications Using Medication Data: A Validation Study",
+      "venue": "Critical Care Medicine",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Andrea Sikora", "Wanyi Min", "Mengxuan Hu", "John W Devlin", "David J Murphy", "Brian Murray", "Bokai Zhao", "Ye Shen", "XianYan Chen", "Susan E Smith", "Sandra Rowe", "Tianming Liu", "Sheng Li"],
+      "title": "Effect of Comprehensive Medication Management on Mortality in Critically Ill Patients",
+      "venue": "Critical Care Medicine",
+      "year": 2025,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li"],
+      "title": "Large Pretrained Models for Treatment Effect Estimation: Are We There Yet?",
+      "venue": "Patterns (Invited Paper)",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Weili Shi", "Sheng Li"],
+      "title": "Dual-windowed Vision Transformer with Angular Self-Attention",
+      "venue": "TMLR",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Daiqing Qi", "Handong Zhao", "Xiaowei Jia", "Sheng Li"],
+      "title": "Revealing an Overlooked Challenge in Class-Incremental Graph Learning",
+      "venue": "TMLR",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Mengxuan Hu", "Zhixuan Chu", "Sheng Li"],
+      "title": "DTRNet: Precisely Correcting Selection Bias in Individual-Level Continuous Treatment Estimation through Reweighted Disentangled Representation",
+      "venue": "TMLR",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Dongliang Guo", "Daiqing Qi", "Zhixuan Chu", "Xiang Yu", "Sheng Li"],
+      "title": "Trustworthy Representation Learning Across Domains",
+      "venue": "ACM T-KDD",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhongliang Zhou*", "Wayland Yeung*", "Saber Soleymani", "Nathan Gravel", "Mariah Salcedo", "Sheng Li", "Natarajan Kannan"],
+      "title": "Using explainable machine learning to uncover the kinase-substrate interaction landscape",
+      "venue": "Bioinformatics",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Haixing Dai", "Zhengliang Liu", "Wenxiong Liao", "Xiaoke Huang", "Zihao Wu", "Lin Zhao", "Wei Liu", "Ninghao Liu", "Sheng Li", "Dajiang Zhu", "Hongmin Cai", "Quanzheng Li", "Dinggang Shen", "Tianming Liu", "Xiang Li"],
+      "title": "ChatAug: Leveraging ChatGPT for Text Data Augmentation",
+      "venue": "IEEE TBD",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Saed Rezayi", "Zhengliang Liu", "Zihao Wu", "Chandra Dhakal", "Bao Ge", "Haixing Dai", "Gengchen Mai", "Ninghao Liu", "Chen Zhen", "Tianming Liu", "Sheng Li"],
+      "title": "Exploring New Frontiers in Agricultural NLP: Investigating the Potential of Large Language Models for Food Applications",
+      "venue": "IEEE TBD",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Weili Shi", "Ronghang Zhu", "Sheng Li"],
+      "title": "Unsupervised Class-imbalanced Domain Adaptation with Pairwise Adversarial Training and Semantic Alignment",
+      "venue": "IEEE TCSVT",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Weili Shi", "Sheng Li"],
+      "title": "Mixup Virtual Adversarial Training for Robust Vision Transformers",
+      "venue": "IEEE TBD",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Daniel Petti", "Ronghang Zhu", "Sheng Li", "Changying Li"],
+      "title": "Graph Neural Networks for Lightweight Plant Organ Tracking",
+      "venue": "Computers and Electronics in Agriculture (CEA)",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Daiqing Qi", "Handong Zhao", "Sheng Li"],
+      "title": "Easy Regional Contrastive Learning of Expressive Visual Fashion Representations",
+      "venue": "NeurIPS",
+      "year": 2024,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Daiqing Qi", "Handong Zhao", "Aidong Zhang", "Sheng Li"],
+      "title": "Generalizing to Unseen Domains via Text-guided Augmentation: A Training-free Approach",
+      "venue": "ECCV",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Daiqing Qi", "Handong Zhao", "Zijun Wei", "Sheng Li"],
+      "title": "Tag-grounded Visual Instruction Tuning with Retrieval Augmentation",
+      "venue": "EMNLP",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Yu Wang*", "Ronghang Zhu*", "Pengsheng Ji", "Sheng Li"],
+      "title": "Open-Set Graph Domain Adaptation via Separate Domain Alignment",
+      "venue": "AAAI",
+      "year": 2024,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Mengxuan Hu", "Qing Cui", "Longfei Li", "Sheng Li"],
+      "title": "Task-Driven Causal Feature Distillation: Towards Trustworthy Risk Prediction",
+      "venue": "AAAI",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Yan Wang", "Zhixuan Chu", "Xin Ouyang", "Simeng Wang", "Hongyan Hao", "Yue Shen", "Jinjie Gu", "Siqiao Xue", "James Zhang", "Qing Cui", "Longfei Li", "Jun Zhou", "Sheng Li"],
+      "title": "LLMRG: Improving Recommendations through Large Language Model Reasoning Graphs",
+      "venue": "AAAI",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zihan Guan", "Mengxuan Hu", "Zhongliang Zhou", "Jielu Zhang", "Sheng Li", "Ninghao Liu"],
+      "title": "BadSAM: Exploring Security Vulnerabilities of SAM via Backdoor Attacks",
+      "venue": "AAAI (Student Abstract)",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Yaochen Zhu", "Yinhan He", "Jing Ma", "Mengxuan Hu", "Sheng Li", "Jundong Li"],
+      "title": "Causal Inference with Latent Variables: Recent Advances and Future Prospectives",
+      "venue": "KDD (Tutorial & Survey Track)",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Dongliang Guo", "Yun Fu", "Sheng Li"],
+      "title": "Ada-VAD: Domain Adaptable Video Anomaly Detection",
+      "venue": "SDM",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhongliang Zhou", "Jielu Zhang", "Zihan Guan", "Mengxuan Hu", "Ni Lao", "Lan Mu", "Sheng Li", "Gengchen Mai"],
+      "title": "Img2Loc: revisiting image localization using multi-modality foundation models and Image-based Retrieval-Augmented Generation",
+      "venue": "SIGIR (Demo Paper)",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Jielu Zhang", "Zhongliang Zhou", "Gengchen Mai", "Mengxuan Hu", "Zihan Guan", "Sheng Li", "Lan Mu"],
+      "title": "Text2Seg: Zero-shot Remote Sensing Image Semantic Segmentation via Text-Guided Visual Foundation Models",
+      "venue": "ACM SIGSPATIAL GeoAI",
+      "year": 2024,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Ronghang Zhu", "Xiang Yu", "Sheng Li"],
+      "title": "Semi-Supervised Single Domain Generalization with Label-Free Adversarial Data Augmentation",
+      "venue": "TMLR",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhongliang Zhou*", "Wayland Yeung*", "Nathan Gravel", "Mariah Salcedo", "Saber Soleymani", "Sheng Li", "Natarajan Kannan"],
+      "title": "Phosformer: An explainable Transformer model for protein kinase-specific phosphorylation predictions",
+      "venue": "Bioinformatics",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Lin Zhao", "Haixing Dai", "Zihao Wu", "Zhenxiang Xiao", "Lu Zhang", "David Weizhong Liu", "Xintao Hu", "Xi Jiang", "Sheng Li", "Dajiang Zhu", "Tianming Liu"],
+      "title": "Coupling visual semantics of artificial neural networks and human brain function via synchronized activations",
+      "venue": "IEEE T-CDS",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Shengyu Chen", "Nasrin Kalanat", "Yiqun Xie", "Sheng Li", "Jacob Zwart", "Jeffrey Sadler", "Alison Appling", "Samantha Oliver", "Jordan Read", "Xiaowei Jia"],
+      "title": "Physics-Guided Machine Learning from Simulated Data with Different Physical Parameters",
+      "venue": "Knowledge and Information Systems (KAIS)",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Juliet N. Sekandi", "Weili Shi", "Ronghang Zhu", "Patrick Evans Kaggwa", "Ernest Mwebaze", "Sheng Li"],
+      "title": "Application of Artificial Intelligence to Monitoring of Medication Adherence for Tuberculosis Treatment in Africa: A Pilot Study",
+      "venue": "JMIR AI",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiaojun Wei", "Tadas Penkauskas", "Joseph E Reiner", "Celeste Kennard", "Mark J Uline", "Qian Wang", "Sheng Li", "Aleksei Aksimentiev", "Joseph WF Robertson", "Chang Liu"],
+      "title": "Engineering Biological Nanopore Approaches toward Protein Sequencing",
+      "venue": "ACS Nano",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Lian Zhang", "Jason M Holmes", "Zhengliang Liu", "Sujay A Vora", "Terence T Sio", "Carlos E Vargas", "Nathan Y Yu", "Sameer R Keole", "Steven E Schild", "Martin Bues", "Sheng Li", "Tianming Liu", "Jiajian Shen", "William W Wong", "Wei Liu"],
+      "title": "Beam mask and sliding window-facilitated deep learning-based accurate and efficient dose prediction for pencil beam scanning proton therapy",
+      "venue": "Medical Physics",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Dongliang Guo", "Zhixuan Chu", "Sheng Li"],
+      "title": "Fair Attribute Completion on Graph with Missing Attributes",
+      "venue": "ICLR",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Daiqing Qi", "Handong Zhao", "Sheng Li"],
+      "title": "Better Generative Replay for Continual Federated Learning",
+      "venue": "ICLR",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Xiang Yu", "Sheng Li"],
+      "title": "Progressive Mix-Up for Few-Shot Supervised Multi-Source Domain Transfer",
+      "venue": "ICLR",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhaiming Shen", "Ming-Jun Lai", "Sheng Li"],
+      "title": "Graph-based Semi-supervised Local Clustering with Few Labeled Nodes",
+      "venue": "IJCAI",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Yunyi Zhou", "Zhixuan Chu", "Yijia Ruan", "Ge Jin", "Yuchen Huang", "Sheng Li"],
+      "title": "pTSE: A Multi-model Ensemble Method for Probabilistic Time Series Forecasting",
+      "venue": "IJCAI",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Yitian Zhang", "Yue Bai", "Chang Liu", "Huan Wang", "Sheng Li", "Yun Fu"],
+      "title": "Frame Flexible Network",
+      "venue": "CVPR",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Ruopeng Li", "Stephen Rathbun", "Sheng Li"],
+      "title": "Continual Causal Inference with Incremental Observational Data",
+      "venue": "ICDE",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Saed Rezayi", "Handong Zhao", "Ronghang Zhu", "Sheng Li"],
+      "title": "XDC: Adaptive Cross Domain Short Text Clustering",
+      "venue": "SDM",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Mechelle Claridy", "Jose Cordero", "Sheng Li", "Stephen Rathbun"],
+      "title": "Estimating Propensity Scores with Deep Adaptive Variable Selection",
+      "venue": "SDM",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li"],
+      "title": "Towards Trustworthy Representation Learning",
+      "venue": "SDM (Blue Sky Idea Track)",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Weili Shi", "Xueying Yang", "Xujiang Zhao", "Haifeng Chen", "Zhiqiang Tao", "Sheng Li"],
+      "title": "Calibrate Graph Neural Networks under Out-of-Distribution Nodes via Deep Q-learning",
+      "venue": "ACM CIKM",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Sheng Li"],
+      "title": "Continual Causal Inference: Challenges and Opportunities",
+      "venue": "AAAI Bridge Program - Continual Causality",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhanwen Chen", "Saed Rezayi", "Sheng Li"],
+      "title": "More Knowledge, Less Bias: Unbiasing Scene Graph Generation with Explicit Ontological Adjustment",
+      "venue": "WACV",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Weili Shi*", "Zhongliang Zhou*", "Ben Letcher", "Nathaniel Hitt", "Yoichiro Kanno", "Ryo Futamura", "Osamu Kishida", "Kentar Morita", "Sheng Li"],
+      "title": "Aging Contrast: A Contrastive Learning Framework for Fish Re-identification Across Seasons and Years",
+      "venue": "AJCAI",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Hemadri Jayalath", "Ghadeer Yassin", "Lakshmish Ramaswamy", "Sheng Li"],
+      "title": "Continual Optimization of In-Production Machine Learning Systems through Semantic Analysis of User Feedback",
+      "venue": "ICAART",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhongliang Zhou", "Wayland Yeung", "Saber Soleymani", "Nathan Gravel", "Mariah Salcedo", "Sheng Li", "Natarajan Kannan"],
+      "title": "Explaining the blackbox - Unraveling Protein Language Model's Learning Mechanisms for Kinase-Specific Phosphorylation Prediction",
+      "venue": "ICML Workshop on Computational Biology",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Wenxiong Liao", "Zhengliang Liu", "Yiyang Zhang", "Xiaoke Huang", "Fei Qi", "Siqi Ding", "Hui Ren", "Zihao Wu", "Haixing Dai", "Sheng Li", "Lingfei Wu", "Ninghao Liu", "Quanzheng Li", "Tianming Liu", "Xiang Li", "Hongmin Cai"],
+      "title": "Coarse-to-fine Knowledge Graph Domain Adaptation based on Distantly-supervised Iterative Training",
+      "venue": "IEEE BIBM",
+      "year": 2023,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },{
+      "authors": ["Wayland Yeung*", "Zhongliang Zhou*", "Sheng Li", "Natarajan Kannan"],
+      "title": "Alignment-Free Estimation of Sequence Conservation for Identifying Functional Sites Using Protein Sequence Embeddings",
+      "venue": "Briefings in Bioinformatics",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Wayland Yeung*", "Zhongliang Zhou*", "Liju Mathew", "Nathan Gravel", "Rahil Taujale", "Brady O’Boyle", "Mariah Salcedo", "Aarya Venkat", "William Lanzilotta", "Sheng Li", "Natarajan Kannan"],
+      "title": "Tree Visualizations of Protein Sequence Embedding Space Enable Improved Functional Clustering of Diverse Protein Superfamilies",
+      "venue": "Briefings in Bioinformatics",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Liuyi Yao", "Yaliang Li", "Sheng Li", "Jinduo Liu", "Mengdi Huai", "Aidong Zhang", "Jing Gao"],
+      "title": "Concept-Level Model Interpretation from the Causal Aspect",
+      "venue": "IEEE TKDE",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Weili Shi", "Ronghang Zhu", "Sheng Li"],
+      "title": "Pairwise Adversarial Training for Unsupervised Class-imbalanced Domain Adaptation",
+      "venue": "KDD",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Sheng Li"],
+      "title": "CrossMatch: Cross-Classifier Consistency Regularization for Open-Set Single Domain Generalization",
+      "venue": "ICLR",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Saed Rezayi", "Zhengliang Liu", "Zihao Wu", "Chandra Dhakal", "Bao Ge", "Chen Zhen", "Tianming Liu", "Sheng Li"],
+      "title": "AgriBERT: Knowledge-Infused Agricultural Language Models for Matching Food and Nutrition",
+      "venue": "IJCAI",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Sheng Li"],
+      "title": "Self-supervision based Semantic Alignment for Unsupervised Domain Adaptation",
+      "venue": "SDM",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Stephen Rathbun", "Sheng Li"],
+      "title": "Learning Infomax and Domain-Independent Representations for Causal Effect Inference with Observational Data",
+      "venue": "SDM",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Yue Bai", "Zhiqiang Tao", "Lichen Wang", "Sheng Li", "Yu Yin", "Yun Fu"],
+      "title": "Collaborative Attention Mechanism for Multi-Modal Time Series Classification",
+      "venue": "SDM",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Saed Rezayi", "Handong Zhao", "Sheng Li"],
+      "title": "XDC: Adversarial Adaptive Cross Domain Face Clustering",
+      "venue": "AAAI (Poster)",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Stephen Rathbun", "Sheng Li"],
+      "title": "Multi-Task Adversarial Learning for Treatment Effect Estimation in Basket Trials",
+      "venue": "CHIL",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Hui Ding", "Guang Zeng", "Yuchen Huang", "Tan Yan", "Yulin Kang", "Sheng Li"],
+      "title": "Hierarchical Capsule Prediction Network for Marketing Campaigns Effect",
+      "venue": "ACM CIKM",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xueying Yang", "Jiamian Wang", "Xujiang Zhao", "Sheng Li", "Zhiqiang Tao"],
+      "title": "Calibrate Automated Graph Neural Network via Hyperparameter Uncertainty",
+      "venue": "ACM CIKM",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Weili Shi", "Sheng Li"],
+      "title": "Improving Robustness of Vision Transformers via Data-Augmented Virtual Adversarial Training",
+      "venue": "IEEE BigData",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhongliang Zhou", "Nathaniel Hitt", "Benjamin Letcher", "Weili Shi", "Sheng Li"],
+      "title": "Pigmentation-based Visual Learning for Salvelinus fontinalis Individual Re-identification",
+      "venue": "IEEE BigData",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Saed Rezayi", "Haixing Dai", "Zhengliang Liu", "Zihao Wu", "Akarsh Hebbar", "Andrew H. Burns", "Lin Zhao", "Dajiang Zhu", "Xiang Li", "Quanzheng Li", "Wei Liu", "Sheng Li", "Tianming Liu"],
+      "title": "ClinicalRadioBERT: Knowledge-Infused Few Shot Learning for Clinical Notes Named Entity Recognition",
+      "venue": "MICCAI Workshop (MLMI)",
+      "year": 2022,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Rahil Taujale*", "Zhongliang Zhou*", "Wayland Yeung", "Kelley Moremen", "Sheng Li", "Natarajan Kannan"],
+      "title": "Mapping the glycosyltransferase fold landscape using interpretable deep learning",
+      "venue": "Nature Communications",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Heng-Shiou Sheu", "Zhixuan Chu", "Daiqing Qi", "Sheng Li"],
+      "title": "Knowledge-Guided Article Embedding Refinement for Session-based News Recommendation",
+      "venue": "IEEE TNNLS",
+      "year": 2021,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Xiaodong Jiang", "Jiasen Lu", "Sheng Li"],
+      "title": "Cross-Domain Graph Convolutions for Adversarial Unsupervised Domain Adaptation",
+      "venue": "IEEE TNNLS",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Liuyi Yao", "Zhixuan Chu", "Sheng Li", "Yaliang Li", "Jing Gao", "Aidong Zhang"],
+      "title": "A Survey on Causal Inference",
+      "venue": "ACM T-KDD",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Stephen Rathbun", "Sheng Li"],
+      "title": "Graph Infomax Adversarial Learning for Treatment Effect Estimation with Networked Observational Data",
+      "venue": "KDD",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Saed Rezayi", "Handong Zhao", "Sungchul Kim", "Ryan Rossi", "Nedim Lipka", "Sheng Li"],
+      "title": "EDGE: Enriching Knowledge Graph Embeddings with External Text",
+      "venue": "NAACL (Long Paper)",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Yue Bai", "Lichen Wang", "Zhiqiang Tao", "Sheng Li", "Yun Fu"],
+      "title": "Correlative Channel-Aware Fusion for Multi-View Time Series Classification",
+      "venue": "AAAI",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Zhiqiang Tao", "Yaliang Li", "Sheng Li"],
+      "title": "Automated Graph Learning via Population Based Self-Tuning GCN",
+      "venue": "ACM SIGIR",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Liuyi Yao", "Yaliang Li", "Sheng Li", "Mengdi Huai", "Jing Gao", "Aidong Zhang"],
+      "title": "SCI: Subspace Learning Based Counterfactual Inference for Individual Treatment Effect Estimation",
+      "venue": "ACM CIKM",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Sheng Li"],
+      "title": "Self-supervised Universal Domain Adaptation with Adaptive Memory Separation",
+      "venue": "IEEE ICDM",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiaowei Jia", "Yiqun Xie", "Sheng Li", "Shengyu Chen", "Jacob Zwart", "Jeffrey Sadler", "Alison Appling", "Samantha Oliver", "Jordan Read"],
+      "title": "Physics-Guided Machine Learning from Simulation Data: An Application in Modeling Lake and River Systems",
+      "venue": "IEEE ICDM",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ronghang Zhu", "Xiaodong Jiang", "Jiasen Lu", "Sheng Li"],
+      "title": "Transferable Feature Learning on Graphs Across Visual Domains",
+      "venue": "IEEE ICME",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Kang Yuan", "Sheng Li"],
+      "title": "2.5D Pose Guided Human Image Generation",
+      "venue": "ACM ICMR",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Saed Rezayi", "Nedim Lipka", "Vishwa Vinay", "Ryan A. Rossi", "Franck Dernoncourt", "Tracy H. King", "Sheng Li"],
+      "title": "A Framework for Knowledge-Derived Query Suggestions",
+      "venue": "IEEE BigData",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Saed Rezayi", "Saber Soleymani", "Hamid R. Arabnia", "Sheng Li"],
+      "title": "Socially Aware Multimodal Deep Neural Networks for Fake News Classification",
+      "venue": "IEEE MIPR",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sumer Singh", "Sheng Li"],
+      "title": "Exploiting Auxiliary Data for Offensive Language Detection with Bidirectional Transformers",
+      "venue": "ACL-WOAH",
+      "year": 2021,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Xiaodong Jiang", "Ronghang Zhu", "Pengsheng Ji", "Sheng Li"],
+      "title": "Co-embedding of Nodes and Edges with Graph Neural Networks",
+      "venue": "IEEE TPAMI",
+      "year": 2020,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Rahil Taujale", "Aarya Venkat", "Liang-Chin Huang", "Zhongliang Zhou", "Wayland Yeung", "Khaled M Rasheed", "Sheng Li", "Arthur S Edison", "Kelley W Moremen", "Natarajan Kannan"],
+      "title": "Deep evolutionary analysis reveals the design principles of fold A glycosyltransferases",
+      "venue": "eLife",
+      "year": 2020,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Jiahuan Ren", "Zhao Zhang", "Sheng Li", "Yang Wang", "Guangcan Liu", "Shuicheng Yan", "Meng Wang"],
+      "title": "Learning Hybrid Representation by Robust Dictionary Learning in Factorized Compressed Space",
+      "venue": "IEEE TIP",
+      "year": 2020,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Liang-Chin Huang", "Wayland Yeung", "Ye Wang", "Huimin Cheng", "Aarya Venkat", "Sheng Li", "Ping Ma", "Khaled Rasheed", "Natarajan Kannan"],
+      "title": "Quantitative Structure–Mutation–Activity Relationship Tests (QSMART) model for protein kinase inhibitor response prediction",
+      "venue": "BMC Bioinformatics",
+      "year": 2020,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Fangyu Li", "Jose Clemente", "Maria Valero", "Zion Tse", "Sheng Li", "WenZhan Song"],
+      "title": "Smart Home Monitoring System via Footstep Induced Vibrations",
+      "venue": "IEEE Systems Journal",
+      "year": 2020,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Handong Zhao"],
+      "title": "A Survey on Representation Learning for User Modeling",
+      "venue": "IJCAI",
+      "year": 2020,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Peng Cui", "Zheyan Shen", "Sheng Li", "Liuyi Yao", "Yaliang Li", "Zhixuan Chu", "Jing Gao"],
+      "title": "Causal Inference Meets Machine Learning",
+      "venue": "KDD (Tutorial)",
+      "year": 2020,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhixuan Chu", "Stephen Rathbun", "Sheng Li"],
+      "title": "Matching in Selective and Balanced Representation Space for Treatment Effects Estimation",
+      "venue": "ACM CIKM",
+      "year": 2020,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Abhilash Dorle", "Fangyu Li", "Wenzhan Song", "Sheng Li"],
+      "title": "Learning Discriminative Virtual Sequences for Time Series Classification",
+      "venue": "ACM CIKM",
+      "year": 2020,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Heng-Shiou Sheu", "Sheng Li"],
+      "title": "Context-aware Graph Embedding for Session-based News Recommendation",
+      "venue": "ACM RecSys",
+      "year": 2020,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li*", "Zhiqiang Tao*", "Kang Li", "Yun Fu"],
+      "title": "Visual to Text: Survey of Image and Video Captioning",
+      "venue": "IEEE T-ETCI",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhiqiang Tao", "Hongfu Liu", "Sheng Li", "Zhengming Ding", "Yun Fu"],
+      "title": "Marginalized Multi-View Ensemble Clustering",
+      "venue": "IEEE TNNLS",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhao Zhang", "Yan Zhang", "Sheng Li", "Guangcan Liu", "Shuicheng Yan", "Meng Wang"],
+      "title": "Flexible Auto-weighted Local-coordinate Concept Factorization: A Robust Framework for Unsupervised Clustering",
+      "venue": "IEEE TKDE",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhengming Li", "Zheng Zhang", "Jie Qin", "Sheng Li", "Hongmin Cai"],
+      "title": "Low-Rank Analysis–Synthesis Dictionary Learning with Adaptively Ordinal Locality",
+      "venue": "Neural Networks",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Jianyi Liu", "Rui Qiao", "Yueying Li", "Sheng Li"],
+      "title": "Witness Detection in Multi-Instance Regression and Its Application for Age Estimation",
+      "venue": "Multimedia Tools and Applications",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiaodong Jiang", "Pengsheng Ji", "Sheng Li"],
+      "title": "CensNet: Convolution with Edge-Node Switching in Graph Neural Networks",
+      "venue": "IJCAI",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Liuyi Yao", "Sheng Li", "Yaliang Li", "Hongfei Xue", "Jing Gao", "Aidong Zhang"],
+      "title": "On the Estimation of Treatment Effect with Text Covariates",
+      "venue": "IJCAI",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhao Zhang", "Weiming Jiang", "Zheng Zhang", "Sheng Li", "Guangcan Liu", "Jie Qin"],
+      "title": "Scalable Block-Diagonal Locality-Constrained Projective Dictionary Learning",
+      "venue": "IJCAI",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhiqiang Tao", "Sheng Li", "Zhaowen Wang", "Chen Fang", "Longqi Yang", "Handong Zhao", "Yun Fu"],
+      "title": "Log2Intent: Towards Interpretable User Modeling via Recurrent Semantics Memory Unit",
+      "venue": "KDD (Oral)",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiaowei Jia", "Sheng Li", "Handong Zhao", "Sungchul Kim", "Vipin Kumar"],
+      "title": "Towards Robust and Discriminative Sequential Data Learning: When and How to Perform Adversarial Training?",
+      "venue": "KDD",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Jiuxiang Gu", "Handong Zhao", "Zhe Lin", "Sheng Li", "Jianfei Cai", "Mingyang Ling"],
+      "title": "Scene Graph Generation with External Knowledge and Image Reconstruction",
+      "venue": "CVPR",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiaowei Jia", "Sheng Li", "Ankush Khandelwal", "Guruprasad Nayak", "Anuj Karpatne", "Vipin Kumar"],
+      "title": "Spatial Context-Aware Networks for Mining Temporal Discriminative Period in Land Cover Detection",
+      "venue": "SDM",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zheng Zhang", "Guosen Xie", "Yang Li", "Sheng Li", "Zi Huang"],
+      "title": "SADIH: Semantic-Aware DIscrete Hashing",
+      "venue": "AAAI",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Donghyun Kim", "Sungchul Kim", "Handong Zhao", "Sheng Li", "Ryan Rossi", "Eunyee Koh"],
+      "title": "Domain Switch-Aware Holistic Recurrent Neural Network for Modeling Multi-Domain User Behavior",
+      "venue": "WSDM",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xueyu Mao", "Saayan Mitra", "Sheng Li"],
+      "title": "Training Streaming Factorization Machines with Alternating Least Squares",
+      "venue": "ACM SIGIR",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhao Zhang", "Jiahuan Ren", "Sheng Li", "Richang Hong", "Zhengjun Zha", "Meng Wang"],
+      "title": "Robust Subspace Discovery by Block-diagonal Adaptive Locality-constrained Representation",
+      "venue": "ACM MM",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Liuyi Yao", "Sheng Li", "Yaliang Li", "Mengdi Huai", "Jing Gao", "Aidong Zhang"],
+      "title": "ACE: Adaptively Similarity-preserved Representation Learning for Individual Treatment Effect Estimation",
+      "venue": "IEEE ICDM",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhao Zhang", "Lei Wang", "Yang Wang", "Sheng Li", "Zheng Zhang", "Zhengjun Zha", "Meng Wang"],
+      "title": "Adaptive Structure-Constrained Robust Latent Low-Rank Coding for Image Recovery",
+      "venue": "IEEE ICDM",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhao Zhang", "Yan Zhang", "Sheng Li", "Guangcan Liu", "Meng Wang", "Shuicheng Yan"],
+      "title": "Robust Unsupervised Flexible Auto-weighted Local-Coordinate Concept Factorization for Image Clustering",
+      "venue": "IEEE ICASSP",
+      "year": 2019,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Sheng Li", "Ming Shao", "Yun Fu"],
+      "title": "Person Re-identification by Cross-View Multi-Level Dictionary Learning",
+      "venue": "IEEE TPAMI",
+      "year": 2018,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Kang Li", "Yun Fu"],
+      "title": "Self-Taught Low-Rank Coding for Visual Learning",
+      "venue": "IEEE TNNLS",
+      "year": 2018,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Kang Li", "Yun Fu"],
+      "title": "Early Recognition of 3D Human Actions",
+      "venue": "ACM TOMM",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Ming Shao", "Yun Fu"],
+      "title": "Multi-View Low-Rank Analysis with Applications to Outlier Detection",
+      "venue": "ACM TKDD",
+      "year": 2018,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Hongfu Liu", "Ming Shao", "Sheng Li", "Yun Fu"],
+      "title": "Infinite Ensemble Clustering",
+      "venue": "DMKD",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Chengcheng Jia", "Ming Shao", "Sheng Li", "Handong Zhao", "Yun Fu"],
+      "title": "Stacked Denoising Tensor Auto-Encoder for Action Recognition with Spatiotemporal Corruptions",
+      "venue": "IEEE TIP",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhiqiang Tao", "Hongfu Liu", "Sheng Li", "Zhengming Ding", "Yun Fu"],
+      "title": "Robust Spectral Ensemble Clustering via Rank Minimization",
+      "venue": "ACM TKDD",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Yan Zhang", "Zhao Zhang", "Sheng Li", "Jie Qin", "Guangcan Liu", "Meng Wang", "Shuicheng Yan"],
+      "title": "Unsupervised Nonnegative Adaptive Feature Extraction for Data Representation",
+      "venue": "IEEE TKDE",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Kai Li", "Zhengming Ding", "Sheng Li", "Yun Fu"],
+      "title": "Towards Resolution-Invariant Person Re-identification via Projective Dictionary Learning",
+      "venue": "IEEE TNNLS",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Liuyi Yao", "Sheng Li", "Yaliang Li", "Mengdi Huai", "Jing Gao", "Aidong Zhang"],
+      "title": "Representation Learning for Treatment Effect Estimation from Observational Data",
+      "venue": "NeurIPS",
+      "year": 2018,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Kai Li", "Sheng Li", "Zhengming Ding", "Weidong Zhang", "Yun Fu"],
+      "title": "Latent Discriminant Subspace Representations for Multi-view Outlier Detection",
+      "venue": "AAAI",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Kai Li", "Zhengming Ding", "Sheng Li", "Yun Fu"],
+      "title": "Discriminative Semi-coupled Projective Dictionary Learning for Low-Resolution Person Re-Identification",
+      "venue": "AAAI",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Shumin Jing", "Sheng Li"],
+      "title": "Contextual Collaborative Filtering for Student Response Prediction in Mixed-Format Tests",
+      "venue": "AAAI (Poster)",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhengming Ding", "Sheng Li", "Ming Shao", "Yun Fu"],
+      "title": "Graph Adaptive Knowledge Transfer for Unsupervised Domain Adaptation",
+      "venue": "ECCV",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Tuan Manh Lai", "Trung Bui", "Sheng Li"],
+      "title": "A Review on Deep Learning Techniques Applied to Answer Selection",
+      "venue": "COLING",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhengming Ding", "Ming Shao", "Sheng Li", "Yun Fu"],
+      "title": "Generic Embedded Semantic Dictionary for Robust Multi-label Classification",
+      "venue": "IEEE ICBK",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Tuan Manh Lai", "Trung Bui", "Nedim Lipka", "Sheng Li"],
+      "title": "Supervised Transfer Learning for Product Information Question Answering",
+      "venue": "IEEE ICMLA",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Tuan Manh Lai", "Trung Bui", "Sheng Li", "Nedim Lipka"],
+      "title": "A Simple End-to-End Question Answering Model for Product Information",
+      "venue": "ACL ECONLP Workshop",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhao Zhang", "Weiming Jiang", "Sheng Li", "Jie Qin", "Guangcan Liu", "Shuicheng Yan"],
+      "title": "Robust Locality-Constrained Label Consistent KSVD by Joint Sparse Embedding",
+      "venue": "ICPR",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Jiahuan Ren", "Zhao Zhang", "Sheng Li", "Guangcan Liu", "Meng Wang", "Shuicheng Yan"],
+      "title": "Robust Projective Low-Rank and Sparse Representation by Robust Dictionary Learning",
+      "venue": "ICPR",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Huan Zhang", "Zhao Zhang", "Sheng Li", "Qiaolin Ye", "Mingbo Zhao", "Meng Wang"],
+      "title": "Robust Adaptive Label Propagation by Double Matrix Decomposition",
+      "venue": "ICPR",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Lei Wang", "Zhao Zhang", "Sheng Li", "Guangcan Liu", "Chenping Hou", "Jie Qin"],
+      "title": "Similarity-Adaptive Latent Low-Rank Representation for Robust Data Representation",
+      "venue": "PRICAI",
+      "year": 2018,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Kang Li", "Sheng Li", "Sangmin Oh", "Yun Fu"],
+      "title": "Videography based Unconstrained Video Analysis",
+      "venue": "IEEE TIP",
+      "year": 2017,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Guoqiang Zhong", "Yan Zheng", "Sheng Li", "Yun Fu"],
+      "title": "SLMOML: Online Metric Learning with Global Convergence",
+      "venue": "IEEE T-CSVT",
+      "year": 2017,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Yun Fu"],
+      "title": "Matching on Balanced Nonlinear Representations for Treatment Effects Estimation",
+      "venue": "NeurIPS",
+      "year": 2017,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Yun Fu"],
+      "title": "Robust Multi-Label Semi-Supervised Classification",
+      "venue": "IEEE BigData",
+      "year": 2017,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Hongfu Liu", "Zhiqiang Tao", "Yun Fu"],
+      "title": "Multi-View Graph Learning with Adaptive Label Propagation",
+      "venue": "IEEE BigData",
+      "year": 2017,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhiqiang Tao", "Hongfu Liu", "Sheng Li", "Zhengming Ding", "Yun Fu"],
+      "title": "From Ensemble Clustering to Multi-View Clustering",
+      "venue": "IJCAI",
+      "year": 2017,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Sheng Li", "Yun Fu"],
+      "title": "Learning Robust and Discriminative Subspace with Low-Rank Constraints",
+      "venue": "IEEE TNNLS",
+      "year": 2016,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Nikos Vlassis", "Jaya Kawale", "Yun Fu"],
+      "title": "Matching via Dimensionality Reduction for Estimation of Treatment Effects in Digital Marketing Campaigns",
+      "venue": "IJCAI",
+      "year": 2016,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li"],
+      "title": "Learning Robust Representations for Data Analytics",
+      "venue": "IJCAI (Poster)",
+      "year": 2016,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Yaliang Li", "Yun Fu"],
+      "title": "Multi-View Time Series Classification: A Discriminative Bilinear Projection Approach",
+      "venue": "ACM CIKM",
+      "year": 2016,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Zhiqiang Tao", "Hongfu Liu", "Sheng Li", "Yun Fu"],
+      "title": "Robust Spectral Ensemble Clustering",
+      "venue": "ACM CIKM",
+      "year": 2016,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Hongfu Liu", "Ming Shao", "Sheng Li", "Yun Fu"],
+      "title": "Infinite Ensemble for Image Clustering",
+      "venue": "KDD",
+      "year": 2016,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Yun Fu"],
+      "title": "Unsupervised Transfer Learning via Low-Rank Coding for Image Clustering",
+      "venue": "IJCNN",
+      "year": 2016,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Guoqiang Zhong", "Yan Zheng", "Sheng Li", "Yun Fu"],
+      "title": "Scalable Large Margin Online Metric Learning",
+      "venue": "IJCNN",
+      "year": 2016,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Sheng Li", "Yun Fu"],
+      "title": "Learning Balanced and Unbalanced Graphs via Low-Rank Coding",
+      "venue": "IEEE TKDE",
+      "year": 2015,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Kang Li", "Yun Fu"],
+      "title": "Temporal Subspace Clustering for Human Motion Segmentation",
+      "venue": "ICCV",
+      "year": 2015,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Ming Shao", "Yun Fu"],
+      "title": "Cross-View Projective Dictionary Learning for Person Re-identification",
+      "venue": "IJCAI",
+      "year": 2015,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ming Shao", "Sheng Li", "Zhengming Ding", "Yun Fu"],
+      "title": "Deep Linear Coding for Fast Graph Clustering",
+      "venue": "IJCAI",
+      "year": 2015,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Jaya Kawale", "Yun Fu"],
+      "title": "Deep Collaborative Filtering via Marginalized Denoising Auto-encoder",
+      "venue": "ACM CIKM",
+      "year": 2015,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Jaya Kawale", "Yun Fu"],
+      "title": "Predicting User Behavior in Display Advertising via Dynamic Collective Matrix Factorization",
+      "venue": "ACM SIGIR",
+      "year": 2015,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Ming Shao", "Yun Fu"],
+      "title": "Multi-view Low-Rank Analysis for Outlier Detection",
+      "venue": "SDM",
+      "year": 2015,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Liangyue Li*", "Sheng Li*", "Yun Fu"],
+      "title": "Learning Low-Rank and Discriminative Dictionary for Image Classification",
+      "venue": "IVC",
+      "year": 2014,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ya Su", "Sheng Li", "Shengjin Wang", "Yun Fu"],
+      "title": "Submanifold Decomposition",
+      "venue": "IEEE T-CSVT",
+      "year": 2014,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Yun Fu"],
+      "title": "Robust Subspace Discovery through Supervised Low-Rank Constraints",
+      "venue": "SDM (Best Paper Award)",
+      "year": 2014,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Kang Li", "Sheng Li", "Yun Fu"],
+      "title": "Early Classification of Ongoing Observation",
+      "venue": "IEEE ICDM",
+      "year": 2014,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Ming Shao", "Sheng Li", "Tongliang Liu", "Dacheng Tao", "Thomas S. Huang", "Yun Fu"],
+      "title": "Learning Relative Features Through Adaptive Pooling for Image Classification",
+      "venue": "IEEE ICME (Best Paper Candidate)",
+      "year": 2014,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Ming Shao", "Yun Fu"],
+      "title": "Locality Linear Fitting One-class SVM with Low-Rank Constraints for Outlier Detection",
+      "venue": "IJCNN",
+      "year": 2014,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Yun Fu"],
+      "title": "Low-Rank Coding with b-Matching Constraint for Semi-supervised Classification",
+      "venue": "IJCAI",
+      "year": 2013,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Liangyue Li", "Sheng Li", "Yun Fu"],
+      "title": "Discriminative Dictionary Learning with Low-Rank Regularization for Face Recognition",
+      "venue": "IEEE FG",
+      "year": 2013,
+      "github": "[Code]",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Peng Li", "Yun Fu"],
+      "title": "Understanding 3D Human Torso Shape via Manifold Clustering",
+      "venue": "SPIE DSS",
+      "year": 2013,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Xiao-Yuan Jing", "Sheng Li", "David Zhang", "Jian Yang", "Jing-Yu Yang"],
+      "title": "Supervised and Unsupervised Parallel Subspace Learning for Large-Scale Image Recognition",
+      "venue": "IEEE T-CSVT",
+      "year": 2012,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiao-Yuan Jing", "Sheng Li", "David Zhang", "Chao Lan", "Jingyu Yang"],
+      "title": "Optimal Subset-division based Discrimination and Its Kernelization for Face and Palmprint Recognition",
+      "venue": "Pattern Recognition",
+      "year": 2012,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiao-Yuan Jing", "Sheng Li", "Wen-Qian Li", "etc."],
+      "title": "Palmprint and Face Multi-Modal Biometric Recognition based on SDA-GSVD and Its Kernelization",
+      "venue": "Sensors",
+      "year": 2012,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiao-Yuan Jing", "Chao Lan", "David Zhang", "Jing-Yu Yang", "Min Li", "Sheng Li", "Songhao Zhu"],
+      "title": "Face Feature Extraction and Recognition based on Discriminant Subclass-center Manifold Preserving Projection",
+      "venue": "Pattern Recognition Letters",
+      "year": 2012,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Xiao-Yuan Jing", "Sheng Li", "Chao Lan", "David Zhang", "Jingyu Yang", "Qian Liu"],
+      "title": "Color Image Canonical Correlation Analysis for Face Feature Extraction and Recognition",
+      "venue": "Signal Processing",
+      "year": 2011,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Xiao-Yuan Jing", "David Zhang", "Yong-Fang Yao", "Lu-Sha Bian"],
+      "title": "A Novel Kernel Discriminant Feature Extraction Framework based on Mapped Virtual Samples for Face Recognition",
+      "venue": "IEEE ICIP",
+      "year": 2011,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiao-Yuan Jing", "Sheng Li", "David Zhang", "Jingyu Yang"],
+      "title": "Face Recognition based on Local Uncorrelated and Weighted Global Uncorrelated Discriminant Transforms",
+      "venue": "IEEE ICIP",
+      "year": 2011,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiao-Yuan Jing", "Sheng Li", "David Zhang", "Jiang-Yue Man", "Jing-Yu Yang"],
+      "title": "Supervised Local Sparsity Preserving Projection for Face Feature Extraction",
+      "venue": "ACPR",
+      "year": 2011,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiao-Yuan Jing", "Sheng Li", "Yongfang Yao", "etc."],
+      "title": "Multi-Modal Biometric Feature Extraction and Recognition Based on Subclass Discriminant Analysis (SDA) and Generalized Singular Value Decomposition (GSVD)",
+      "venue": "ICHB",
+      "year": 2011,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Sheng Li", "Xiao-Yuan Jing", "Lu-Sha Bian", "Shi-Qiang Gao", "Qian Liu", "Yong-Fang Yao"],
+      "title": "Facial Image Recognition Based on a Statistical Uncorrelated Near Class Discriminant Approach",
+      "venue": "IEICE T-IS",
+      "year": 2010,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiao-Yuan Jing", "Sheng Li", "Yong-Fang Yao", "Lu-Sha Bian", "Jingyu Yang"],
+      "title": "Kernel Uncorrelated Adjacent-class Discriminant Analysis",
+      "venue": "ICPR",
+      "year": 2010,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Chao Lan", "Xiao-Yuan Jing", "Sheng Li", "Lu-Sha Bian", "Yong-Fang Yao"],
+      "title": "Exploring the Natural Discriminative Information of Sparse Representation for Feature Extraction",
+      "venue": "CISP",
+      "year": 2010,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Xiao-Yuan Jing", "Qian Liu", "Chao Lan", "Jiangyue Man", "Sheng Li", "David Zhang"],
+      "title": "Holistic Orthogonal Analysis of Discriminant Transforms for Color Face Recognition",
+      "venue": "IEEE ICIP",
+      "year": 2010,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+
+    {
+      "authors": ["Sheng Li", "Yong-Fang Yao", "Xiao-Yuan Jing", "Heng Chang", "Shi-Qiang Gao", "David Zhang", "Jing-Yu Yang"],
+      "title": "Face Recognition Based on Nonlinear DCT Discriminant Feature Extraction Using Improved Kernel DCV",
+      "venue": "IEICE T-IS",
+      "year": 2009,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    },
+    {
+      "authors": ["Sheng Li", "Xiao-Yuan Jing", "Qian Liu", "etc."],
+      "title": "Kernel-Plural Discriminant Analysis Based on Fourier Transform and Its Application to Face Recognition",
+      "venue": "CCPR (Chinese)",
+      "year": 2009,
+      "github": "",
+      "paper": "",
+      "website": "",
+      "image": ""
+    }
+  ]
+}

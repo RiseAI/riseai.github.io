@@ -1,0 +1,430 @@
+{
+  "advisor": {
+    "name": "Sheng Li",
+    "role": "Advisor",
+    "img": "images/people/sl.jpg",
+    "email": "",
+    "scholar": "",
+    "github": "",
+    "website": "https://sheng-li.org/",
+    "description": "Quantitative Foundation Associate Professor, University of Virginia"
+  },
+  "phd_students": [
+    {
+      "name": "Daiqing Qi",
+      "start": "Fall 2021",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/dqq.jpg",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?user=FIa-pykAAAAJ&hl=en",
+      "github": "",
+      "website": "https://daiqing-qi.github.io/#1",
+      "description": "Research interests in Multimodal Large Language Models and Vision-Language Models. "
+    },
+    {
+      "name": "Weili Shi",
+      "start": "Fall 2021",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/wls.png",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?user=elyMqnoAAAAJ&hl=en",
+      "github": "",
+      "website": "",
+      "description": "Research interests in Transformer, Domain Adaptation, Visual Understanding."
+    },
+    {
+      "name": "Dongliang Guo",
+      "start": "Fall 2021",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/dlg.jpg",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?user=uztQCmMAAAAJ&hl=en",
+      "github": "",
+      "website": "https://donglgcn.github.io/",
+      "description": "Research interests in  multi-modal learning, computer vision and Trustworthy learning (explainable AI, fairness)"
+    },
+    {
+      "name": "Mengxuan Hu (Lucy)",
+      "start": "Fall 2022",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/mxh2.jpg",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?user=YC4WABEAAAAJ&hl=zh-CN",
+      "github": "https://xuanxuan03021.github.io/",
+      "website": "",
+      "description": "Research interests in Trustworthy AI, especially on Large Language Models, Multimodal Foundation Models, and Generative AI, especially from a safety and fairness lens."
+    },
+    {
+      "name": "Guangya Wan",
+      "start": "Fall 2023",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/gyw.jpg",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?user=Um_KuoYAAAAJ&hl=en",
+      "github": "",
+      "website": "",
+      "description": "Research interests in Large Language Models, Causal Inference, Causal Discovery, Trustworthy Models"
+    },
+    {
+      "name": "Hanzhang Yuan",
+      "start": "Fall 2023",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/hzy.jpg",
+      "email": "",
+      "scholar": "",
+      "github": "",
+      "website": "",
+      "description": "Research interests in causual inference, generative models"
+    },
+    {
+      "name": "Lehan Yang",
+      "start": "Fall 2024",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/lhy.jpg",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?user=G25lGPEAAAAJ&hl=en",
+      "github": "",
+      "website": "https://bio.lehanyang.info/",
+      "description": "Research interests in computer vision related generation problems, included controllable generation, editing, generative dense prediction."
+    },
+    {
+      "name": "Tianlong Wang",
+      "start": "Fall 2024",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/tlw.jpg",
+      "email": "",
+      "scholar": "",
+      "github": "",
+      "website": "",
+      "description": "Research interests in generative modeling, model editing, NLP, CV."
+    },
+    {
+      "name": "Wenhao Zhang",
+      "start": "Fall 2025",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/whz.jpg",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?hl=en&user=8DDM3o0AAAAJ",
+      "github": "",
+      "website": "",
+      "description": "Research interests in multimodal learning."
+    },
+    {
+      "name": "Pinqiao Wang",
+      "start": "Fall 2025",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/pqw.jpg",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?hl=en&user=V5daYRMAAAAJ",
+      "github": "",
+      "website": "https://pinqiaowang.github.io/",
+      "description": "Research interests in developing Quantitative Methods to understand agent behaviors for designing efficient algorithmic-based systems of LLM"
+    },
+    {
+      "name": "Yuyang Cheng",
+      "start": "Fall 2025",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/yyc.jpg",
+      "email": "",
+      "scholar": "https://scholar.google.com/citations?hl=en&user=fRRf-PUAAAAJ",
+      "github": "",
+      "website": "",
+      "description": "Research interests in Trustworthy AI, LLM Reasoning & Alignment."
+    }
+  ],
+  "ms_students": [
+    {
+      "name": "Huibo Yang",
+      "start": "Fall 2023",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/hby.png",
+      "email": "",
+      "scholar": "",
+      "github": "",
+      "website": ""
+    },
+    {
+      "name": "Tongxuan Tian",
+      "start": "Fall 2023",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/icon.png",
+      "email": "",
+      "scholar": "",
+      "github": "",
+      "website": ""
+    }
+  ],
+  "ug_students": [
+    {
+      "name": "Anaya Pronit Nath",
+      "start": "Fall 2024",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/apn.jpeg",
+      "email": "",
+      "scholar": "",
+      "github": "",
+      "website": ""
+    },
+    {
+      "name": "Yifan Qiao",
+      "start": "Fall 2024",
+      "end": "",
+      "co_advisor": "",
+      "img": "images/people/yfq.jpg",
+      "email": "",
+      "scholar": "",
+      "github": "",
+      "website": ""
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Zhixuan Chu",
+      "level": "phd",
+      "degree": "Ph.D. in Biostatistics",
+      "start": "Spring 2019",
+      "end": "Spring 2021",
+      "co_advisor": "Dr. Stephen Rathbun",
+      "first_employment": "Algorithm Expert at Ant Group"
+    },
+    {
+      "name": "Seyedsaed Rezayidemne",
+      "level": "phd",
+      "degree": "Ph.D.",
+      "start": "Fall 2018",
+      "end": "Spring 2023",
+      "co_advisor": "",
+      "first_employment": "NLP Scientist at NBME"
+    },
+    {
+      "name": "Yu Wang",
+      "level": "phd",
+      "degree": "Ph.D. in Statistics",
+      "start": "Spring 2021",
+      "end": "Spring 2023",
+      "co_advisor": "Dr. Pengsheng Ji",
+      "first_employment": "Machine Learning Engineer at LinkedIn"
+    },
+    {
+      "name": "Zhongliang Zhou",
+      "level": "phd",
+      "degree": "Ph.D.",
+      "start": "Spring 2020",
+      "end": "Spring 2024",
+      "co_advisor": "Dr. Natarajan Kannan",
+      "first_employment": "Senior Scientist at Merck"
+    },
+    {
+      "name": "Ronghang Zhu",
+      "level": "phd",
+      "degree": "Ph.D.",
+      "start": "Fall 2019",
+      "end": "Spring 2025",
+      "co_advisor": "",
+      "first_employment": "Applied Scientist at Amazon"
+    },
+    {
+      "name": "Zhanwen Chen",
+      "level": "phd",
+      "degree": "Ph.D.",
+      "start": "Fall 2021",
+      "end": "Spring 2024",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Zhaiming Shen",
+      "level": "ms",
+      "degree": "MS (Ph.D. Student in Mathematics)",
+      "start": "Spring 2022",
+      "end": "Summer 2023",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Yangjiaxin Wei",
+      "level": "ms",
+      "degree": "MS (Ph.D. Student in Geography)",
+      "start": "Spring 2022",
+      "end": "Summer 2023",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Duna Zhan",
+      "level": "ms",
+      "degree": "MS (Ph.D. Student in Statistics)",
+      "start": "Fall 2021",
+      "end": "Summer 2023",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Kushajveer Singh",
+      "level": "ms",
+      "degree": "MS",
+      "start": "Spring 2021",
+      "end": "Summer 2022",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Mitchell Buff",
+      "level": "ms",
+      "degree": "MS",
+      "start": "Fall 2021",
+      "end": "Spring 2022",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Junwen Fan",
+      "level": "ms",
+      "degree": "MS",
+      "start": "Fall 2021",
+      "end": "Spring 2022",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Akarsh Vasudeva Hebbar",
+      "level": "ms",
+      "degree": "MS in CS",
+      "start": "Summer 2021",
+      "end": "Fall 2021",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Kranthimithra Rayapraju",
+      "level": "ms",
+      "degree": "MS in CS",
+      "start": "Spring 2021",
+      "end": "Summer 2021",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Matthew P. Pooser",
+      "level": "ms",
+      "degree": "MS in CS",
+      "start": "Fall 2020",
+      "end": "Spring 2021",
+      "co_advisor": "",
+      "first_employment": "Centers for Disease Control and Prevention"
+    },
+    {
+      "name": "Weifeng Wang",
+      "level": "ms",
+      "degree": "MS in CS (and Ph.D. Student in Statistics)",
+      "start": "Fall 2019",
+      "end": "Spring 2021",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Weili Shi",
+      "level": "ms",
+      "degree": "MS in CS",
+      "start": "Spring 2020",
+      "end": "Spring 2021",
+      "co_advisor": "",
+      "first_employment": "Ph.D. Student at UGA"
+    },
+    {
+      "name": "Yuanyi Zhang",
+      "level": "ms",
+      "degree": "MS in CS",
+      "start": "Spring 2020",
+      "end": "Spring 2021",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Daksha Devasthale",
+      "level": "ms",
+      "degree": "MS in CS",
+      "start": "Fall 2020",
+      "end": "Spring 2021",
+      "co_advisor": "",
+      "first_employment": "NCR Corporation"
+    },
+    {
+      "name": "Brij Rokad",
+      "level": "ms",
+      "degree": "MS",
+      "start": "Spring 2020",
+      "end": "Fall 2020",
+      "co_advisor": "Dr. Nandita Gaur",
+      "first_employment": "NCR Corporation"
+    },
+    {
+      "name": "Abhilash Dorle",
+      "level": "ms",
+      "degree": "MS in CS",
+      "start": "Spring 2019",
+      "end": "Summer 2020",
+      "co_advisor": "",
+      "first_employment": "NCR Corporation"
+    },
+    {
+      "name": "Sumer Singh",
+      "level": "ms",
+      "degree": "MS in AI",
+      "start": "Spring 2020",
+      "end": "Summer 2020",
+      "co_advisor": "",
+      "first_employment": "TeleTracking"
+    },
+    {
+      "name": "Heng Shiou Sheu",
+      "level": "ms",
+      "degree": "MS in CS",
+      "start": "Fall 2019",
+      "end": "Spring 2020",
+      "co_advisor": "",
+      "first_employment": "Turing Text"
+    },
+    {
+      "name": "Kang Yuan",
+      "level": "ms",
+      "degree": "MS in AI",
+      "start": "Fall 2018",
+      "end": "Spring 2019",
+      "co_advisor": "",
+      "first_employment": ""
+    },
+    {
+      "name": "Xiaodong Jiang",
+      "level": "ms",
+      "degree": "MS in CS (and Ph.D. in Statistics)",
+      "start": "Fall 2018",
+      "end": "Spring 2019",
+      "co_advisor": "",
+      "first_employment": "Facebook"
+    },
+    {
+      "name": "Andrew Hays Burns",
+      "level": "ug",
+      "degree": "BS",
+      "start": "Summer 2021",
+      "end": "Spring 2022",
+      "co_advisor": "",
+      "first_employment": ""
+    }
+  ]
+}

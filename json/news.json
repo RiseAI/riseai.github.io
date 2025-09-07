@@ -1,0 +1,1113 @@
+{
+  "news": [
+    {
+      "date": "2025-08",
+      "title": "Paper accepted at EMNLP 2025 Findings",
+      "url": "#",
+      "summary": "One paper on fairness of retrieval-augmented generation in LLMs is accepted at Findings of EMNLP 2025."
+    },
+    {
+      "date": "2025-08",
+      "title": "Paper accepted at ACM CIKM 2025",
+      "url": "#",
+      "summary": "One paper on exploring the vulnerabilities of large pre-trained models via model editing is accepted at ACM CIKM 2025."
+    },
+    {
+      "date": "2025-07",
+      "title": "Paper accepted at ACM ICMI 2025",
+      "url": "#",
+      "summary": "One paper on few-shot fine-grained classification with interpretable prompt learning is accepted at ACM ICMI 2025."
+    },
+    {
+      "date": "2025-05",
+      "title": "Two papers accepted at ICML 2025",
+      "url": "#",
+      "summary": "Two papers on multi-modal model editing and LLM safety alignment are accepted at ICML 2025."
+    },
+    {
+      "date": "2025-04",
+      "title": "Survey paper accepted at IJCAI 2025",
+      "url": "#",
+      "summary": "One survey paper on large language models for causal discovery is accepted at the survey track of IJCAI 2025."
+    },
+    {
+      "date": "2025-04",
+      "title": "NIH R01 Grant received",
+      "url": "#",
+      "summary": "Received an NIH R01 Grant (as Co-I; PI: Prof. Wei Liu at Mayo Clinic) to develop computer vision models for adaptive radiation therapy."
+    },
+    {
+      "date": "2025-03",
+      "title": "Plenary Speaker at ICSTA 2025",
+      "url": "#",
+      "summary": "I've been invited to be a Plenary Speaker of the 7th International Conference on Statistics: Theory and Applications (ICSTA 2025)."
+    },
+    {
+      "date": "2025-02",
+      "title": "Three papers accepted at CVPR 2025",
+      "url": "#",
+      "summary": "Three papers on multimodal LLM, unified dense prediction, and source-free domain adaptation are accepted at CVPR 2025."
+    },
+    {
+      "date": "2025-01",
+      "title": "Paper accepted at NAACL 2025",
+      "url": "#",
+      "summary": "One paper on reasoning-aware self-consistency for efficient and faithful LLM reasoning is accepted at NAACL 2025."
+    },
+    {
+      "date": "2025-01",
+      "title": "Paper accepted at ICLR 2025",
+      "url": "#",
+      "summary": "One paper on training clean models from poisoned datasets with causal analysis is accepted at ICLR 2025."
+    },
+    {
+      "date": "2024-12",
+      "title": "Appointed Senior Associate Editor at IEEE T-CSVT",
+      "url": "#",
+      "summary": "I am appointed as a Senior Associate Editor for IEEE Trans. on Circuits and Systems for Video Technology."
+    },
+    {
+      "date": "2024-12",
+      "title": "Merck Grant received",
+      "url": "#",
+      "summary": "Received a Merck Grant to support our research on foundation models."
+    },
+    {
+      "date": "2024-12",
+      "title": "Paper accepted at AAAI 2025 AI Alignment Track",
+      "url": "#",
+      "summary": "One paper on black-box input-level backdoor detection on diffusion models is accepted at the AI Alignment Track of AAAI 2025."
+    },
+    {
+      "date": "2024-12",
+      "title": "Proposal accepted at AAAI 2025 Senior Member Track",
+      "url": "#",
+      "summary": "One proposal on trustworthy AI and educational assessment is accepted at the AAAI 2025 Senior Member Presentation Track."
+    },
+    {
+      "date": "2024-12",
+      "title": "Paper accepted at TMLR",
+      "url": "#",
+      "summary": "One paper on black-box backdoor detection with causal inference is accepted by TMLR."
+    },
+    {
+      "date": "2024-11",
+      "title": "Invited Talk at AAAI 2025 Bridge Program",
+      "url": "#",
+      "summary": "I am invited to give a talk at the AAAI 2025 Bridge Program on Continual Causality."
+    },
+    {
+      "date": "2024-11",
+      "title": "DOD DURIP Grant received",
+      "url": "#",
+      "summary": "Received a DOD DURIP Grant to support our research projects."
+    },
+    {
+      "date": "2024-11",
+      "title": "Editorial & Area Chair Roles",
+      "url": "#",
+      "summary": "I accepted the invitations to serve as Action Editor for the Transactions on Machine Learning Research (TMLR) and Area Chair for IJCAI 2025."
+    },
+    {
+      "date": "2024-11",
+      "title": "Paper on continuous treatment effect estimation accepted at TMLR",
+      "url": "#",
+      "summary": "One paper on individual-level continuous treatment effect estimation is accepted by TMLR."
+    },
+    {
+      "date": "2024-10",
+      "title": "Article published in The Virginian-Pilot",
+      "url": "#",
+      "summary": "Our article on AI for K-12 education is published at The Virginian-Pilot."
+    },
+    {
+      "date": "2024-09",
+      "title": "Paper accepted at NeurIPS 2024",
+      "url": "#",
+      "summary": "One paper on expressive representation learning with vision-language models is accepted at NeurIPS 2024."
+    },
+    {
+      "date": "2024-09",
+      "title": "Paper accepted at EMNLP 2024",
+      "url": "#",
+      "summary": "One paper on tag-grounded visual instruction tuning is accepted at EMNLP 2024."
+    },
+    {
+      "date": "2024-08",
+      "title": "ONR Grant received",
+      "url": "#",
+      "summary": "Received an ONR Grant to support our research on causal inference."
+    },
+    {
+      "date": "2024-08",
+      "title": "Organizing NeurIPS 2024 Workshop",
+      "url": "#",
+      "summary": "We are organizing the First Workshop on Large Foundation Models for Educational Assessment at NeurIPS 2024."
+    },
+    {
+      "date": "2024-08",
+      "title": "Paper accepted at IEEE TBD",
+      "url": "#",
+      "summary": "One paper on mixup virtual adversarial training for robust vision transformers is accepted at IEEE Transactions on Big Data."
+    },
+    {
+      "date": "2024-07",
+      "title": "NSF Grant received",
+      "url": "#",
+      "summary": "Received an NSF Grant to support our research on AI for controlled-environment agriculture."
+    },
+    {
+      "date": "2024-07",
+      "title": "Paper accepted at ECCV 2024",
+      "url": "#",
+      "summary": "One paper on text-guided augmentation for domain generalization is accepted at ECCV 2024."
+    },
+    {
+      "date": "2024-06",
+      "title": "Paper accepted at IEEE T-CSVT",
+      "url": "#",
+      "summary": "One paper on class-imbalanced domain adaptation has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)."
+    },
+    {
+      "date": "2024-06",
+      "title": "Paper accepted at IEEE TBD",
+      "url": "#",
+      "summary": "One paper on large language models for food applications is accepted by IEEE Transactions on Big Data."
+    },
+    {
+      "date": "2024-05",
+      "title": "Paper accepted at TMLR",
+      "url": "#",
+      "summary": "One paper on dual-windowed vision transformer with angular self-attention is accepted by TMLR."
+    },
+    {
+      "date": "2024-05",
+      "title": "NSF I-Corps Grant received",
+      "url": "#",
+      "summary": "Received an NSF I-Corps Grant to explore generative AI for educational assessment."
+    },
+    {
+      "date": "2024-05",
+      "title": "Student awarded Best PhD Dissertation",
+      "url": "#",
+      "summary": "My student Zhongliang Zhou received the Best PhD Dissertation Award from UGA School of Computing. Zhongliang has recently joined Merck as a Senior Scientist."
+    },
+    {
+      "date": "2024-05",
+      "title": "Paper on class-incremental graph learning accepted at TMLR",
+      "url": "#",
+      "summary": "One paper on class-incremental graph learning is accepted by TMLR."
+    },
+    {
+      "date": "2024-04",
+      "title": "Invited Preview Paper at Patterns",
+      "url": "#",
+      "summary": "I'm invited to write a preview paper on deep learning for causal inference for the Patterns journal."
+    },
+    {
+      "date": "2024-03",
+      "title": "Survey and demo papers accepted at TKDD & SIGIR 2024",
+      "url": "#",
+      "summary": "One survey paper on trustworthy representation learning across domains is accepted by ACM TKDD; One demo paper is accepted at SIGIR 2024."
+    },
+    {
+      "date": "2024-02",
+      "title": "Appointed Associate Professor at UVA",
+      "url": "#",
+      "summary": "I'm appointed as a Quantitative Foundation Associate Professor of Data Science at UVA."
+    },
+    {
+      "date": "2024-01",
+      "title": "Paper accepted at Bioinformatics",
+      "url": "#",
+      "summary": "One paper on explainable machine learning is accepted by Bioinformatics."
+    },
+    {
+      "date": "2023-12",
+      "title": "Papers accepted at AAAI 2024 and SDM 2024",
+      "url": "#",
+      "summary": "Three papers (Open-Set Learning, Causal Inference, and LLM for Recommendation) and one student abstract (BadSAM) are accepted at AAAI 2024; One paper on video anomaly detection is accepted at SDM 2024."
+    },
+    {
+      "date": "2023-11",
+      "title": "Book on ML for Causal Inference published",
+      "url": "#",
+      "summary": "Our new book on Machine Learning for Causal Inference has been published by Springer. Many thanks to the contributors of this book!"
+    },
+    {
+      "date": "2023-11",
+      "title": "Editorial and Chair roles",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Associate Editor of IEEE Trans. Cognitive and Developmental Systems (T-CDS), as Area Chair for IJCAI 2024 and ICML 2024, and as SPC for PAKDD 2024."
+    },
+    {
+      "date": "2023-10",
+      "title": "Paper accepted at TMLR",
+      "url": "#",
+      "summary": "One paper on semi-supervised single domain generalization is accepted by TMLR."
+    },
+    {
+      "date": "2023-09",
+      "title": "Paper accepted at AJCAI 2023",
+      "url": "#",
+      "summary": "One paper on fish identification is accepted at AJCAI 2023. More information about our project can be found in this news article."
+    },
+    {
+      "date": "2023-08",
+      "title": "NSF Grant received",
+      "url": "#",
+      "summary": "Received an NSF Grant to support our research on physics-guided graph neural networks."
+    },
+    {
+      "date": "2023-08",
+      "title": "Paper accepted at ACM CIKM 2023",
+      "url": "#",
+      "summary": "One paper on the calibration of graph neural networks is accepted at ACM CIKM 2023."
+    },
+    {
+      "date": "2023-07",
+      "title": "Papers accepted at Medical Physics and ACS Nano",
+      "url": "#",
+      "summary": "One paper is accepted by Medical Physics; One paper is accepted by ACS Nano."
+    },
+    {
+      "date": "2023-06",
+      "title": "Promoted to Associate Professor with Tenure",
+      "url": "#",
+      "summary": "I am promoted to Associate Professor with Tenure (effective 08/2023). Many thanks to my students, collaborators, colleagues, and mentors!"
+    },
+    {
+      "date": "2023-06",
+      "title": "Tutorial at CVPR 2023",
+      "url": "#",
+      "summary": "We gave a tutorial on Recent Advances in Visual Domain Adaptation and Generalization at CVPR 2023."
+    },
+    {
+      "date": "2023-06",
+      "title": "Paper accepted at ICML Workshop",
+      "url": "#",
+      "summary": "One paper is accepted to The 2023 ICML Workshop on Computational Biology."
+    },
+    {
+      "date": "2023-05",
+      "title": "Paper accepted at IEEE TCDS",
+      "url": "#",
+      "summary": "One paper is accepted by IEEE Transactions on Cognitive and Developmental Systems (TCDS)."
+    },
+    {
+      "date": "2023-04",
+      "title": "Selected for DARPA AI Forward",
+      "url": "#",
+      "summary": "I am selected to participate in DARPA AI Forward."
+    },
+    {
+      "date": "2023-04",
+      "title": "Papers accepted at IJCAI 2023",
+      "url": "#",
+      "summary": "Two papers on graph-based local clustering and time series forecasting are accepted at IJCAI 2023."
+    },
+    {
+      "date": "2023-04",
+      "title": "Organizing AMFG Workshop at ICCV 2023",
+      "url": "#",
+      "summary": "We will organize The 11th IEEE International Workshop on Analysis and Modeling of Faces and Gestures (AMFG) at ICCV 2023."
+    },
+    {
+      "date": "2023-04",
+      "title": "Area Chair role at NeurIPS 2023",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Area Chair for NeurIPS 2023."
+    },
+    {
+      "date": "2023-03",
+      "title": "Paper accepted at SDM 2023 Blue Sky Track",
+      "url": "#",
+      "summary": "One paper on trustworthy representation learning is accepted to the Blue Sky Idea Track of SDM 2023."
+    },
+    {
+      "date": "2023-02",
+      "title": "Paper accepted at CVPR 2023",
+      "url": "#",
+      "summary": "One paper on video recognition is accepted at CVPR 2023."
+    },
+    {
+      "date": "2023-01",
+      "title": "Papers accepted at ICLR 2023",
+      "url": "#",
+      "summary": "Three papers on fair graph learning, continual federated learning, and few-shot transfer learning are accepted at ICLR 2023."
+    },
+    {
+      "date": "2023-01",
+      "title": "Papers accepted at Bioinformatics and JMIR AI",
+      "url": "#",
+      "summary": "One paper is accepted by Bioinformatics; One paper is accepted by JMIR AI."
+    },
+    {
+      "date": "2022-12",
+      "title": "Seven papers accepted at major venues",
+      "url": "#",
+      "summary": "Seven papers are accepted at ICDE 2023, SDM 2023, Briefings in Bioinformatics, AAAI-23 Bridge Program, and ICAART 2023."
+    },
+    {
+      "date": "2022-12",
+      "title": "Area Chair role at ICML 2023",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Area Chair for ICML 2023."
+    },
+    {
+      "date": "2022-11",
+      "title": "Area Chair role at IJCAI 2023",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Area Chair for IJCAI 2023."
+    },
+    {
+      "date": "2022-10",
+      "title": "Papers accepted at WACV 2023 and IEEE BigData 2022",
+      "url": "#",
+      "summary": "One paper on scene graph generation is accepted at WACV 2023; Two papers on visual learning are accepted at IEEE BigData 2022."
+    },
+    {
+      "date": "2022-09",
+      "title": "Organizing tutorial and workshop at AAAI 2023",
+      "url": "#",
+      "summary": "I will co-organize a tutorial (Machine Learning for Causal Inference) and a workshop (AI for Web Ads) at AAAI 2023."
+    },
+    {
+      "date": "2022-09",
+      "title": "Adobe Data Science Research Award received",
+      "url": "#",
+      "summary": "Received the Adobe Data Science Research Award."
+    },
+    {
+      "date": "2022-09",
+      "title": "Paper accepted at IEEE TKDE",
+      "url": "#",
+      "summary": "One paper on causality guided model interpretation is accepted by IEEE Trans. Knowledge and Data Engineering (TKDE)."
+    },
+    {
+      "date": "2022-08",
+      "title": "HHS R01 Grant received",
+      "url": "#",
+      "summary": "Received a HHS R01 Grant (as Co-I; PI: Prof. Andrea Sikora) to develop AI based health IT tools to assist critical care pharmacists."
+    },
+    {
+      "date": "2022-08",
+      "title": "Tutorial Co-Chair and Area Chair roles",
+      "url": "#",
+      "summary": "I accepted the invitations to serve as Tutorial Co-Chair and Senior PC member for SDM 2023, and Area Chair for ICLR 2023."
+    },
+    {
+      "date": "2022-08",
+      "title": "Papers accepted at ACM CIKM 2022 and MICCAI-MLMI 2022",
+      "url": "#",
+      "summary": "Two papers are accepted at ACM CIKM 2022; One paper is accepted at MICCAI-MLMI 2022."
+    },
+    {
+      "date": "2022-07",
+      "title": "NIH U01 Grant received",
+      "url": "#",
+      "summary": "Received an NIH U01 Grant (as Co-I; PI: Prof. Natarajan Kannan) to annotate dark ion-channel functions by language modeling."
+    },
+    {
+      "date": "2022-06",
+      "title": "NIH R01 Supplement Grant received",
+      "url": "#",
+      "summary": "Received an NIH R01 Supplement Grant (as Co-I; PI: Prof. Donglan Zhang) to examine disparities in ADRD using machine learning."
+    },
+    {
+      "date": "2022-05",
+      "title": "Paper accepted at KDD 2022",
+      "url": "#",
+      "summary": "One paper on class-imbalanced domain adaptation is accepted at KDD 2022."
+    },
+    {
+      "date": "2022-05",
+      "title": "Student award received",
+      "url": "#",
+      "summary": "My PhD student Zhongliang Zhou received the Outstanding Graduate Student Award from CS department."
+    },
+    {
+      "date": "2022-04",
+      "title": "Paper accepted at IJCAI 2022",
+      "url": "#",
+      "summary": "One paper on knowledge-infused agricultural language models is accepted at IJCAI 2022 (AI for Good Track)."
+    },
+    {
+      "date": "2022-03",
+      "title": "Area Chair role at NeurIPS 2022",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Area Chair for NeurIPS 2022."
+    },
+    {
+      "date": "2022-03",
+      "title": "Home Depot Gift Grant received",
+      "url": "#",
+      "summary": "Received a Home Depot Gift Grant (PI) to support our research on deep learning and knowledge graph."
+    },
+    {
+      "date": "2022-03",
+      "title": "DoD Grant received",
+      "url": "#",
+      "summary": "Received a DoD Grant (PI) through KRI to support our research on visual intelligence."
+    },
+    {
+      "date": "2022-03",
+      "title": "Paper accepted at CHIL 2022",
+      "url": "#",
+      "summary": "One paper on multi-task adversarial learning and causal inference is accepted at CHIL 2022."
+    },
+    {
+      "date": "2022-03",
+      "title": "USGS Grant received",
+      "url": "#",
+      "summary": "Received an USGS Grant (Sole PI) to support our research on individual fish identification."
+    },
+    {
+      "date": "2022-02",
+      "title": "Associate Editor role at IEEE T-NNLS",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Associate Editor for IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)."
+    },
+    {
+      "date": "2022-02",
+      "title": "Best Associate Editor Award received",
+      "url": "#",
+      "summary": "I received the Best Associate Editor Award from IEEE Transactions on Circuits and Systems for Video Technology."
+    },
+    {
+      "date": "2022-01",
+      "title": "Paper accepted at ICLR 2022",
+      "url": "#",
+      "summary": "One paper on open-set single domain generalization is accepted at ICLR 2022."
+    },{
+      "date": "2021-12",
+      "title": "Fred C. Davidson Early Career Scholar Award",
+      "url": "#",
+      "summary": "I receive the Fred C. Davidson Early Career Scholar Award."
+    },
+    {
+      "date": "2021-12",
+      "title": "Papers accepted at SDM 2022",
+      "url": "#",
+      "summary": "Three papers on causal inference, unsupervised domain adaptation, and multi-modal learning are accepted at SDM 2022."
+    },
+    {
+      "date": "2021-10",
+      "title": "Papers accepted at IEEE T-NNLS, BigData 2021, AAAI 2022",
+      "url": "#",
+      "summary": "Three paper are accepted to IEEE T-NNLS, IEEE BigData 2021, and AAAI 2022 (Student Poster)."
+    },
+    {
+      "date": "2021-08",
+      "title": "Papers accepted at Nature Communications, ICDM 2021, CIKM 2021",
+      "url": "#",
+      "summary": "One paper is accepted by Nature Communications; Three papers are accepted at IEEE ICDM 2021 and ACM CIKM 2021."
+    },
+    {
+      "date": "2021-08",
+      "title": "Keynote talk at IJCAI 2021 workshop",
+      "url": "#",
+      "summary": "I gave a keynote talk at the 3rd Workshop on Continual and Multimodal Learning for Internet of Things (Co-located with IJCAI 2021)."
+    },
+    {
+      "date": "2021-05",
+      "title": "Papers accepted at KDD 2021 and IEEE T-NNLS",
+      "url": "#",
+      "summary": "Two papers are accepted at ACM SIGKDD 2021 and IEEE T-NNLS."
+    },
+    {
+      "date": "2021-05",
+      "title": "Students received research awards",
+      "url": "#",
+      "summary": "My PhD students Saed Rezayi and Ronghang Zhu received the Excellent Graduate Students Research Awards from CS department."
+    },
+    {
+      "date": "2021-05",
+      "title": "Faculty Teaching Excellence Award",
+      "url": "#",
+      "summary": "I received the Faculty Teaching Excellence Award from the Department of Computer Science."
+    },
+    {
+      "date": "2021-04",
+      "title": "Papers accepted at SIGIR 2021 and ICMR 2021",
+      "url": "#",
+      "summary": "Two papers on self-tuning GCN and pose image generation are accepted at ACM SIGIR 2021 and ACM ICMR 2021."
+    },
+    {
+      "date": "2021-03",
+      "title": "Organizing AMFG Workshop at CVPR 2021",
+      "url": "#",
+      "summary": "I will co-organize The 10th IEEE International Workshop on Analysis and Modeling of Faces and Gestures (AMFG), at CVPR 2021."
+    },
+    {
+      "date": "2021-03",
+      "title": "Papers accepted at NAACL 2021, ICME 2021, MIPR 2021",
+      "url": "#",
+      "summary": "Three papers are accepted at NAACL 2021, IEEE ICME 2021, and IEEE MIPR 2021."
+    },
+    {
+      "date": "2021-02",
+      "title": "Cisco Gift Grant received",
+      "url": "#",
+      "summary": "Received a Cisco Gift Grant (Sole PI) to support our research on fair machine learning."
+    },
+    {
+      "date": "2021-02",
+      "title": "ARO Grant received",
+      "url": "#",
+      "summary": "Received an ARO Grant (Sole PI) to support our research on graph reasoning and visual understanding."
+    },
+    {
+      "date": "2020-12",
+      "title": "Survey and paper accepted at TKDD and AAAI 2021",
+      "url": "#",
+      "summary": "Our survey paper on causal inference is accepted by ACM TKDD; One paper on multi-view learning is accepted at AAAI 2021."
+    },
+    {
+      "date": "2020-12",
+      "title": "Associate Editor role at IEEE T-CSVT",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)."
+    },
+    {
+      "date": "2020-12",
+      "title": "DoD Grant received",
+      "url": "#",
+      "summary": "Received a DoD Grant (Sole PI) to support our research on representation learning and visual understanding."
+    },
+    {
+      "date": "2020-10",
+      "title": "Paper accepted at BMC Bioinformatics",
+      "url": "#",
+      "summary": "One paper on protein kinase inhibitor response prediction is accepted by BMC Bioinformatics."
+    },
+    {
+      "date": "2020-09",
+      "title": "Paper accepted at IEEE TPAMI",
+      "url": "#",
+      "summary": "One paper on co-embedding of nodes and edges with graph neural networks is accepted by IEEE Trans. PAMI."
+    },
+    {
+      "date": "2020-08",
+      "title": "Paper accepted at RecSys 2020",
+      "url": "#",
+      "summary": "One paper on graph embedding for session-based news recommendation is accepted at ACM RecSys 2020."
+    },
+    {
+      "date": "2020-08",
+      "title": "Senior PC roles at IJCAI 2021 and AAAI 2021",
+      "url": "#",
+      "summary": "I accepted the invitations to serve as Senior Program Committee member of IJCAI 2021 and AAAI 2021."
+    },
+    {
+      "date": "2020-07",
+      "title": "Papers accepted at CIKM 2020",
+      "url": "#",
+      "summary": "Two papers on causal inference and virtual sequence learning are accepted at CIKM 2020."
+    },
+    {
+      "date": "2020-07",
+      "title": "Keynote talk at NCAA 2020",
+      "url": "#",
+      "summary": "I gave a keynote talk at the International Conference on Neural Computing for Advanced Applications (NCAA 2020)."
+    },
+    {
+      "date": "2020-06",
+      "title": "Pilot Grant received",
+      "url": "#",
+      "summary": "Received a Pilot Grant (Co-PI) from Georgia CTSA to support our research on AI for mobile health."
+    },
+    {
+      "date": "2020-05",
+      "title": "Aharon Katzir Young Investigator Award",
+      "url": "#",
+      "summary": "I received the Aharon Katzir Young Investigator Award from the International Neural Network Society (INNS)."
+    },
+    {
+      "date": "2020-05",
+      "title": "Faculty Research Excellence Award",
+      "url": "#",
+      "summary": "I received the Faculty Research Excellence Award from the Department of Computer Science."
+    },
+    {
+      "date": "2020-04",
+      "title": "Survey paper accepted at IJCAI 2020",
+      "url": "#",
+      "summary": "One survey paper on representation learning for user modeling is accepted at IJCAI 2020."
+    },
+    {
+      "date": "2020-03",
+      "title": "Paper accepted at eLife",
+      "url": "#",
+      "summary": "One paper that develops machine learning classifiers to predict donor specificity is accepted by eLife."
+    },
+    {
+      "date": "2020-03",
+      "title": "Organizing workshop at IJCAI 2020",
+      "url": "#",
+      "summary": "I will co-organize the Second International Workshop on Bringing Semantic Knowledge into Vision and Text Understanding, at IJCAI 2020."
+    },
+    {
+      "date": "2020-03",
+      "title": "PC roles at NeurIPS 2020, ECCV 2020, UAI 2020, EMNLP 2020",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of NeurIPS 2020, ECCV 2020, UAI 2020, and EMNLP 2020."
+    },
+    {
+      "date": "2020-02",
+      "title": "Area Chair role at ICPR 2020",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Area Chair of ICPR 2020."
+    },
+    {
+      "date": "2019-12",
+      "title": "M. G. Michael Award for Sciences",
+      "url": "#",
+      "summary": "I received the M. G. Michael Award for Sciences from the Franklin College of Arts and Sciences, UGA."
+    },
+    {
+      "date": "2019-11",
+      "title": "Senior PC and PC roles at IJCAI, ICML, KDD",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Senior Program Committee member of IJCAI 2020 and PC member of ICML 2020 and KDD 2020."
+    },
+    {
+      "date": "2019-10",
+      "title": "PC roles at CVPR 2020, ECAI 2020, PAKDD 2020, IEEE MIPR 2020",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of CVPR 2020, ECAI 2020, PAKDD 2020, and IEEE MIPR 2020."
+    },
+    {
+      "date": "2019-09",
+      "title": "Tutorial co-organization at AAAI 2020",
+      "url": "#",
+      "summary": "I will co-organize a tutorial on representation learning for causal inference at AAAI 2020."
+    },
+    {
+      "date": "2019-09",
+      "title": "Journal papers accepted",
+      "url": "#",
+      "summary": "Three journal papers are accepted by IEEE Trans. KDE, IEEE Systems Journal, and Multimedia Tools and Applications."
+    },
+    {
+      "date": "2019-08",
+      "title": "Papers accepted at ICDM 2019",
+      "url": "#",
+      "summary": "Two papers on low-rank coding and causal inference are accepted at ICDM 2019 (Acceptance Rate: 18.5%)."
+    },
+    {
+      "date": "2019-07",
+      "title": "Invited talk at Adobe Symposium",
+      "url": "#",
+      "summary": "I gave an invited talk on graph neural networks at the Adobe Data Science Symposium Webinar."
+    },
+    {
+      "date": "2019-07",
+      "title": "PC role at ICLR 2020",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of ICLR 2020."
+    },
+    {
+      "date": "2019-07",
+      "title": "Paper accepted at Neural Networks",
+      "url": "#",
+      "summary": "One paper on analysis–synthesis dictionary learning is accepted at Neural Networks."
+    },
+    {
+      "date": "2019-07",
+      "title": "Paper accepted at ACM MM 2019",
+      "url": "#",
+      "summary": "One paper on robust subspace discovery is accepted at ACM MM 2019."
+    },
+    {
+      "date": "2019-06",
+      "title": "Senior PC role at AAAI 2020",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Senior Program Committee member of AAAI 2020."
+    },
+    {
+      "date": "2019-05",
+      "title": "Papers accepted at IJCAI 2019",
+      "url": "#",
+      "summary": "Three papers on graph neural networks, causal inference, and dictionary learning are accepted at IJCAI 2019 (Acceptance Rate: 17.9%)."
+    },
+    {
+      "date": "2019-04",
+      "title": "Papers accepted at KDD 2019",
+      "url": "#",
+      "summary": "Two papers on sequence modeling and adversarial training are accepted at KDD 2019 (Acceptance Rate: 14%)."
+    },
+    {
+      "date": "2019-04",
+      "title": "Short paper accepted at SIGIR 2019",
+      "url": "#",
+      "summary": "One short paper on factorization machines is accepted at SIGIR 2019 (Acceptance Rate: 24.4%)."
+    },
+    {
+      "date": "2019-04",
+      "title": "Invited talk at University of Iowa",
+      "url": "#",
+      "summary": "I gave an invited talk on machine learning and deep learning at the College of Education, The University of Iowa, IA."
+    },
+    {
+      "date": "2019-03",
+      "title": "PC role at IEEE BigData 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of IEEE BigData 2019."
+    },
+    {
+      "date": "2019-03",
+      "title": "Paper accepted at IEEE TNNLS",
+      "url": "#",
+      "summary": "One paper on multi-view ensemble clustering is accepted by IEEE Trans. NNLS."
+    },
+    {
+      "date": "2019-03",
+      "title": "Adobe Data Science Research Award",
+      "url": "#",
+      "summary": "I received the Adobe Data Science Research Award."
+    },
+    {
+      "date": "2019-03",
+      "title": "PC role at UAI 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of UAI 2019."
+    },
+    {
+      "date": "2019-03",
+      "title": "Elevated to IEEE Senior Member",
+      "url": "#",
+      "summary": "I am elevated to be Senior Member of IEEE."
+    },
+    {
+      "date": "2019-02",
+      "title": "Paper accepted at CVPR 2019",
+      "url": "#",
+      "summary": "One paper on scene graph generation is accepted at CVPR 2019 (Acceptance Rate: 25.2%)."
+    },
+    {
+      "date": "2019-02",
+      "title": "PC role at BMVC 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of BMVC 2019."
+    },
+    {
+      "date": "2019-02",
+      "title": "Organizing workshop at IJCAI 2019",
+      "url": "#",
+      "summary": "I will co-organize the First International Workshop on Bringing Semantic Knowledge into Vision and Text Understanding, at IJCAI 2019."
+    },
+    {
+      "date": "2019-02",
+      "title": "PC role at NeurIPS 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of NeurIPS 2019."
+    },
+    {
+      "date": "2019-02",
+      "title": "Paper accepted at ICASSP 2019",
+      "url": "#",
+      "summary": "One paper is accepted to ICASSP 2019."
+    },
+    {
+      "date": "2019-02",
+      "title": "PC role at ICCV 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of ICCV 2019."
+    },
+    {
+      "date": "2019-01",
+      "title": "Invited talk at Kennesaw State University",
+      "url": "#",
+      "summary": "I gave an invited talk on deep learning at the Kennesaw State University, Marietta, GA."
+    },
+    {
+      "date": "2019-01",
+      "title": "PC role at KDD 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of KDD 2019."
+    },
+    {
+      "date": "2018-12",
+      "title": "Paper accepted at SDM 2019",
+      "url": "#",
+      "summary": "One paper on spatial-temporal deep networks is accepted at SDM 2019 (Acceptance Rate: 22.7%)."
+    },
+    {
+      "date": "2018-12",
+      "title": "PC role at IJCAI 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of IJCAI 2019."
+    },
+    {
+      "date": "2018-12",
+      "title": "Survey paper accepted at IEEE ETCI",
+      "url": "#",
+      "summary": "One survey paper on image and video captioning is accepted by IEEE Trans. ETCI."
+    },
+    {
+      "date": "2018-12",
+      "title": "Organizing CVPR 2019 AMFG Workshop",
+      "url": "#",
+      "summary": "I will co-organize the CVPR 2019 Workshop on Analysis and Modeling of Faces and Gestures (AMFG)."
+    },
+    {
+      "date": "2018-10",
+      "title": "Paper accepted at AAAI 2019",
+      "url": "#",
+      "summary": "One paper on fast discrete hashing is accepted at AAAI 2019 (Acceptance Rate: 16.2%)."
+    },
+    {
+      "date": "2018-10",
+      "title": "PC role at ICML 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of ICML 2019."
+    },
+    {
+      "date": "2018-10",
+      "title": "Paper accepted at WSDM 2019",
+      "url": "#",
+      "summary": "One paper on multi-domain user behavior modeling is accepted at WSDM 2019 (Acceptance Rate: 16.4%)."
+    },
+    {
+      "date": "2018-10",
+      "title": "Paper accepted at IEEE TKDE",
+      "url": "#",
+      "summary": "One paper on unsupervised feature extraction is accepted by IEEE Trans. KDE."
+    },
+    {
+      "date": "2018-10",
+      "title": "Paper accepted at ICMLA 2018",
+      "url": "#",
+      "summary": "One paper on transfer learning and question answering is accepted at ICMLA 2018."
+    },
+    {
+      "date": "2018-09",
+      "title": "Google Cloud Platform Education Grant",
+      "url": "#",
+      "summary": "Received Google Cloud Platform Education Grant."
+    },
+    {
+      "date": "2018-09",
+      "title": "Paper accepted at IEEE TNNLS",
+      "url": "#",
+      "summary": "One paper on person re-identification (with Kai Li, Prof. Allan Ding, Prof. Yun Fu) is accepted by IEEE Trans. NNLS."
+    },
+    {
+      "date": "2018-09",
+      "title": "Associate Editor role at IEEE CIM",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as an Associate Editor of IEEE Computational Intelligence Magazine (IEEE CIM)."
+    },
+    {
+      "date": "2018-09",
+      "title": "GPU donation from NVIDIA",
+      "url": "#",
+      "summary": "Received a GPU donation from NVIDIA."
+    },
+    {
+      "date": "2018-09",
+      "title": "Paper accepted at ACM TKDD",
+      "url": "#",
+      "summary": "One paper on ensemble clustering (with Zhiqiang Tao, Prof. Hongfu Liu, Prof. Allan Ding, Prof. Yun Fu) is accepted by ACM Trans. KDD."
+    },
+    {
+      "date": "2018-09",
+      "title": "Paper accepted at NIPS 2018",
+      "url": "#",
+      "summary": "One paper on deep representation learning and treatment effect estimation (with Liuyi Yao, Dr. Yaliang Li, Mengdi Huai, Prof. Jing Gao, Prof. Aidong Zhang) is accepted at NIPS 2018. (Acceptance Rate: 20.8%)"
+    },
+    {
+      "date": "2018-08",
+      "title": "Adobe Research gift funding",
+      "url": "#",
+      "summary": "Received a gift funding from Adobe Research."
+    },
+    {
+      "date": "2018-08",
+      "title": "Paper accepted at ICBK 2018",
+      "url": "#",
+      "summary": "One paper on multi-label classification (with Prof. Allan Ding, Prof. Ming Shao, Prof. Yun Fu) is accepted at ICBK 2018."
+    },
+    {
+      "date": "2018-08",
+      "title": "PC role at ICLR 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of ICLR 2019."
+    },
+    {
+      "date": "2018-07",
+      "title": "PC role at IEEE MIPR 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of IEEE MIPR 2019."
+    },
+    {
+      "date": "2018-07",
+      "title": "Joining University of Georgia as Assistant Professor",
+      "url": "#",
+      "summary": "I will be joining the Department of Computer Science at University of Georgia as a Tenure-Track Assistant Professor from Fall 2018."
+    },
+    {
+      "date": "2018-07",
+      "title": "Paper accepted at ECCV 2018",
+      "url": "#",
+      "summary": "One paper on domain adaptation (with Prof. Allan Ding, Prof. Ming Shao, and Prof. Yun Fu) is accepted at ECCV 2018."
+    },
+    {
+      "date": "2018-06",
+      "title": "PC role at IEEE BigData 2018",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of IEEE BigData 2018."
+    },
+    {
+      "date": "2018-06",
+      "title": "Paper accepted at PRICAI 2018",
+      "url": "#",
+      "summary": "One paper is accepted at PRICAI 2018."
+    },
+    {
+      "date": "2018-05",
+      "title": "Senior PC role at AAAI 2019",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Senior Program Committee (SPC) member of AAAI 2019."
+    },
+    {
+      "date": "2018-05",
+      "title": "Paper accepted at ACL ECONLP 2018",
+      "url": "#",
+      "summary": "One paper is accepted at ACL ECONLP 2018."
+    },
+    {
+      "date": "2018-05",
+      "title": "Survey paper accepted at COLING 2018",
+      "url": "#",
+      "summary": "One survey paper is accepted at COLING 2018."
+    },
+    {
+      "date": "2018-05",
+      "title": "PC role at NIPS 2018",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of NIPS 2018."
+    },
+    {
+      "date": "2018-04",
+      "title": "Papers accepted at ICPR 2018",
+      "url": "#",
+      "summary": "Three papers are accepted at ICPR 2018."
+    },
+    {
+      "date": "2018-03",
+      "title": "PC role at ACM MM 2018",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of ACM MM 2018."
+    },
+    {
+      "date": "2018-03",
+      "title": "PC role at IEEE ICTAI 2018",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of IEEE ICTAI 2018."
+    },
+    {
+      "date": "2017-12",
+      "title": "PC role at KDD 2018",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of KDD 2018."
+    },
+    {
+      "date": "2017-12",
+      "title": "Associate Editor role at Journal of Electronic Imaging",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as an Associate Editor of Journal of Electronic Imaging (JEI)."
+    },
+    {
+      "date": "2017-12",
+      "title": "Editorial Board role at Neurocomputing",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as an Editorial Board member of Neurocomputing."
+    },
+    {
+      "date": "2017-11",
+      "title": "PC role at IJCAI 2018",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as Program Committee member of IJCAI 2018."
+    },
+    {
+      "date": "2017-11",
+      "title": "Paper accepted at ACM TKDD",
+      "url": "#",
+      "summary": "One paper on outlier detection is accepted by ACM Trans. Knowledge Discovery from Data (TKDD)."
+    },
+    {
+      "date": "2017-11",
+      "title": "Paper accepted at IEEE TIP",
+      "url": "#",
+      "summary": "One paper on action recognition is accepted by IEEE Trans. Image Processing (T-IP)."
+    },
+    {
+      "date": "2017-11",
+      "title": "Papers and poster accepted at AAAI 2018",
+      "url": "#",
+      "summary": "Two papers (on multi-view outlier detection and person re-identification) and One poster (on student response prediction) are accepted at AAAI 2018."
+    },
+    {
+      "date": "2017-10",
+      "title": "Papers accepted at IEEE BigData 2017",
+      "url": "#",
+      "summary": "Two papers on multi-label classification and multi-view graph learning are accepted at IEEE BigData 2017."
+    },
+    {
+      "date": "2017-10",
+      "title": "Associate Editor role at IET Image Processing",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as an Associate Editor of IET Image Processing."
+    },
+    {
+      "date": "2017-09",
+      "title": "Paper accepted at IEEE TPAMI",
+      "url": "#",
+      "summary": "One paper on person re-identification is accepted by IEEE Trans. Pattern Analysis and Machine Intelligence (T-PAMI)."
+    },
+    {
+      "date": "2017-09",
+      "title": "Editorial Board role at Neural Computing and Applications",
+      "url": "#",
+      "summary": "I accepted the invitation to serve as an Editorial Board member of Neural Computing and Applications."
+    },
+    {
+      "date": "2017-09",
+      "title": "Paper accepted at NIPS 2017",
+      "url": "#",
+      "summary": "One paper on causal inference is accepted at NIPS 2017."
+    },
+    {
+      "date": "2017-08",
+      "title": "Paper accepted at ACM TOMM",
+      "url": "#",
+      "summary": "One paper on action prediction is accepted by ACM Trans. Multimedia Computing Communications and Applications (TOMM)."
+    },
+    {
+      "date": "2017-08",
+      "title": "Paper accepted at DMKD",
+      "url": "#",
+      "summary": "One paper on ensemble clustering is accepted by Data Mining and Knowledge Discovery (DMKD)."
+    },
+    {
+      "date": "2017-06",
+      "title": "Paper accepted at IEEE T-CSVT",
+      "url": "#",
+      "summary": "One paper on metric learning is accepted by IEEE Trans. Circuits and Systems for Video Technology (T-CSVT)."
+    },
+    {
+      "date": "2017-06",
+      "title": "Joined Adobe Research",
+      "url": "#",
+      "summary": "I joined the BigData Experience Lab at Adobe Research as a Data Scientist."
+    },
+    {
+      "date": "2017-05",
+      "title": "Ph.D. degree awarded",
+      "url": "#",
+      "summary": "I received my Ph.D. degree in Computer Engineering from the Northeastern University, Boston, MA."
+    }
+  ]
+}

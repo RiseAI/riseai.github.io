@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RISE Lab — People</title>
+  <meta name="description" content="People of the RISE Lab." />
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header" role="banner">
+  <div class="container header-inner">
+    <a class="brand" href="index.html">
+      <span>Reasoning and Knowledge Discovery (RISE) Lab</span>
+    </a>
+    <nav aria-label="Primary">
+      <a href="index.html">Home</a>
+      <a href="news.html">News</a>
+      <a href="people.html" style="color:#E57200">People</a>
+      <a href="publications.html">Publications</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main" class="container" role="main">
+  <!-- PEOPLE: unified grid (Advisor, PhD, MS, UG) -->
+  <section class="people-section" aria-labelledby="people-heading">
+    <h2 id="people-heading" class="section-title">Current Team</h2>
+    <div class="people-row3" id="people-page-list"></div>
+  </section>
+
+  <!-- Alumni (keep as lists) -->
+  <section class="people-section" aria-labelledby="alumni-heading">
+    <h2 id="alumni-heading" class="section-title">Alumni</h2>
+
+    <h3 class="subsection-title">Ph.D.</h3>
+    <ul id="alumni-phd-list" class="alumni-list"></ul>
+
+    <h3 class="subsection-title">M.S.</h3>
+    <ul id="alumni-ms-list" class="alumni-list"></ul>
+
+    <h3 class="subsection-title">Undergraduate</h3>
+    <ul id="alumni-ug-list" class="alumni-list"></ul>
+  </section>
+</main>
+
+<footer>
+  <div class="container">
+    © <span id="year"></span> Reasoning and Knowledge Discovery (RISE) Lab ·
+    <a href="#">GitHub</a> · <a href="#">Twitter</a>
+  </div>
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+<script src="js/people.js?v=2" defer></script>
+</body>
+</html>

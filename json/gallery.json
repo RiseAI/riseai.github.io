@@ -1,0 +1,49 @@
+{
+    "images": [
+        {
+            "src": "images/carousel/Barbecue.jpg",
+            "alt": "Students collaborating on a whiteboard in the lab",
+            "caption": "Free Food!"
+        },
+        {
+            "src": "images/carousel/1.jpg",
+            "alt": "Students collaborating on a whiteboard in the lab",
+            "caption": "Strawberry!"
+        },
+        {
+            "src": "images/carousel/2.jpg",
+            "alt": "Close-up of experiment setup with sensors and a laptop",
+            "caption": "Happy new year"
+        },
+        {
+            "src": "images/carousel/3.jpg",
+            "alt": "Poster presentation at a conference",
+            "caption": "Halloween for RISE Lab"
+        },
+        {
+            "src": "images/carousel/4.jpg",
+            "alt": "Poster presentation at a conference",
+            "caption": "Halloween for RISE Lab"
+        },
+        {
+            "src": "images/carousel/5.jpg",
+            "alt": "Poster presentation at a conference",
+            "caption": "Halloween for RISE Lab"
+        },
+        {
+            "src": "images/carousel/6.jpg",
+            "alt": "Poster presentation at a conference",
+            "caption": "Halloween for RISE Lab"
+        },
+        {
+            "src": "images/carousel/7.jpg",
+            "alt": "Poster presentation at a conference",
+            "caption": "Halloween for RISE Lab"
+        },
+        {
+            "src": "images/carousel/8.jpg",
+            "alt": "Poster presentation at a conference",
+            "caption": "Halloween for RISE Lab"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RISE Lab — Publications</title>
+  <meta name="description" content="Publications from the RISE Lab." />
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header" role="banner">
+<div class="container header-inner">
+<a class="brand" href="index.html">
+<span>Reasoning and Knowledge Discovery (RISE) Lab</span>
+</a>
+<nav aria-label="Primary">
+<a href="index.html">Home</a>
+<a href="news.html">News</a>
+<a href="people.html">People</a>
+<a href="publications.html" style="color:#E57200">Publications</a>
+</nav>
+</div>
+</header>
+
+  <main id="main" class="container" role="main">
+    <section aria-labelledby="pubs-heading">
+      <h1 id="pubs-heading" class="page-title">Publications</h1>
+      <!-- Cards will be injected here -->
+      <div id="pub-list" class="pub-list"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      © <span id="year"></span> Reasoning and Knowledge Discovery (RISE) Lab · <a href="#">GitHub</a> · <a href="#">Twitter</a>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+  <script src="js/publications.js" defer></script>
+</body>
+</html>

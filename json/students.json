@@ -129,43 +129,9 @@
       "github": "",
       "website": "https://pinqiaowang.github.io/",
       "description": "Research interests in developing Quantitative Methods to understand agent behaviors for designing efficient algorithmic-based systems of LLM"
-    },
-    {
-      "name": "Yuyang Cheng",
-      "start": "Fall 2025",
-      "end": "",
-      "co_advisor": "",
-      "img": "images/people/yyc.jpg",
-      "email": "",
-      "scholar": "https://scholar.google.com/citations?hl=en&user=fRRf-PUAAAAJ",
-      "github": "",
-      "website": "",
-      "description": "Research interests in Trustworthy AI, LLM Reasoning & Alignment."
     }
   ],
   "ms_students": [
-    {
-      "name": "Huibo Yang",
-      "start": "Fall 2023",
-      "end": "",
-      "co_advisor": "",
-      "img": "images/people/hby.png",
-      "email": "",
-      "scholar": "",
-      "github": "",
-      "website": ""
-    },
-    {
-      "name": "Tongxuan Tian",
-      "start": "Fall 2023",
-      "end": "",
-      "co_advisor": "",
-      "img": "images/people/icon.png",
-      "email": "",
-      "scholar": "",
-      "github": "",
-      "website": ""
-    }
   ],
   "ug_students": [
     {

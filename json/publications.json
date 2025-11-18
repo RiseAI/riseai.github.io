@@ -93,7 +93,7 @@
     {
       "authors": ["Mengxuan Hu", "Zihan Guan", "Junfeng Guo", "Zhongliang Zhou", "Jielu Zhang", "Sheng Li"],
       "title": "BBCaL: Black-box Backdoor Detection under the Causality Lens",
-      "venue": "TMLR",
+      "venue": "TMLR (Featured Certificate)",
       "year": 2025,
       "github": "",
       "paper": "",
@@ -121,7 +121,7 @@
       "image": ""
     },
     {
-      "authors": ["Dongliang Guo", "Mengxuan Hu", "Zihan Guan", "Junfeng Guo", "Thomas Hartvigsen", "Sheng Li"],
+      "authors": ["Dongliang Guo*", "Mengxuan HuZ*", "Zihan Guan", "Junfeng Guo", "Thomas Hartvigsen", "Sheng Li"],
       "title": "Backdoor in Seconds: Unlocking Vulnerabilities in Large Pre-trained Models via Model Editing",
       "venue": "ACM CIKM",
       "year": 2025,
@@ -151,7 +151,7 @@
       "image": ""
     },
     {
-      "authors": ["Huibo Yang", "Mengxuan Hu", "Amoreena Most", "Brian Murray", "Susan Smith", "Anthony Hawkins", "Sheng Li", "Andrea Sikora"],
+      "authors": ["Huibo Yang*", "Mengxuan Hu*", "Amoreena Most", "Brian Murray", "Susan Smith", "Anthony Hawkins", "Sheng Li", "Andrea Sikora"],
       "title": "Evaluating Accuracy and Reproducibility of Large Language Model Performance on Critical Care Assessments in Pharmacy Education",
       "venue": "Frontiers in Artificial Intelligence",
       "year": 2025,
